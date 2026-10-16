@@ -42,7 +42,7 @@
         <Item medium="image" caption="Cozinha">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/1a/1a9012d9-d387-4b08-8747-a3a91cc9e353.webp</Item>
         <Item medium="image" caption="Quarto 1">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/0f/0fa6ca82-0999-46d7-842f-b36ff32523c7.webp</Item>
         <Item medium="image" caption="Varanda">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/f6/f68c81d5-6a54-4081-ada7-c0ef0e217283.webp</Item>
-        <Item medium="reel">https://raw.githubusercontent.com/asaltz/feeds-imoveis/main/teste-reels-xml.mp4</Item>
+        <Item medium="reel">https://raw.githubusercontent.com/acs-gh/feeds-imoveis/main/teste-reels-xml.mp4</Item>
       </Media>
 
       <!-- Tour virtual (opcional) -->
