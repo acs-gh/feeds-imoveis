@@ -36,7 +36,7 @@
 
       <!-- Fotos e vídeo -->
       <Media>
-        <Item medium="video">https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=eJ9x3ucdW5c</Item>
+        <Item medium="video">https://www.youtube.com/watch?v=eJ9x3ucdW5c</Item>
         <Item medium="image" caption="Fachada" primary="true">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/2e/2e492163-58de-4a52-a751-dc09bd3cba7f.webp</Item>
         <Item medium="image" caption="Sala">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/fd/fd27b6ba-9d7c-43ad-ac91-9558d0ceaa4c.webp</Item>
         <Item medium="image" caption="Cozinha">https://vr-prod-listings-temp-downloader-images.s3.amazonaws.com/images/1a/1a9012d9-d387-4b08-8747-a3a91cc9e353.webp</Item>
