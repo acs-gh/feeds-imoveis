@@ -4,7 +4,7 @@
   <Provider>Praedium</Provider>
   <Email>integracoes@praedium.com.br</Email>
   <ContactName>Praedium Tecnologia Imobiliária</ContactName>
-  <PublishDate>2026-10-13T05:47:27</PublishDate>
+  <PublishDate>2026-10-26T14:12:57</PublishDate>
   <Telephone>13-3032 3823</Telephone>
  </Header>
  <Listings>
@@ -122,6 +122,104 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <PostalCode>22280-020</PostalCode>
       <Latitude>-22.9513228</Latitude>
       <Longitude>-43.1889793</Longitude>
+    </Location>
+    <ContactInfo>
+      <Name>Lotus com Alma Imóveis</Name>
+      <Email>jaqueline.lothusrj@gmail.com</Email>
+      <Website>comalmaimoveis.com.br</Website>
+      <Telephone>(21) 98150-8894</Telephone>
+      <Location>
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>Rio de Janeiro</City>
+        <Neighborhood>Leblon</Neighborhood>
+        <Address>Rua Humberto de campos, 1003</Address>
+      </Location>
+    </ContactInfo>
+  </Listing>
+  <Listing>
+    <ListingID>200</ListingID>
+    <Title><![CDATA[Apartamento de 370 m² de frente para o mar na Avenida Atlântica | Copacabana]]></Title>
+    <TransactionType>For Sale</TransactionType>
+    <PublicationType>PREMIERE_2</PublicationType>
+    <Media>
+      <Item medium="video">https://www.youtube.com/watch?v=8Em8OrqFFjU</Item>
+      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/631290123792872/lgqoc4u2ywjhywrlntnlyjy3_md.jpg</Item>
+      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/631291312811643/ondkhbu2ywjhywrlnjzjzjm3_md.jpg</Item>
+      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/26490634358695/iam1mn82ywjhywrly2i5mzhi_md.jpg</Item>
+      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/285684561519466/ii55gsg2ywjhywrln2e3mzk2_md.jpg</Item>
+      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/26490312303433/ktpvmuo2ywjhywrlyjzkmtu0_md.jpg</Item>
+      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/285690892139979/lhfa6w2ywjhywrlztazodg4_md.jpg</Item>
+      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/544965387197709/bojfeq2ywjhywuzyzdlzdk1_md.jpg</Item>
+      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/26572618038682/sbibjpu2ywjhywuzzgi3nmu2_md.jpg</Item>
+      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/631301375248961/z3cx1d02ywjhywrmmddiodjk_md.jpg</Item>
+      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/544888126851588/gjexgqe2ywjhywrlzjnmndix_md.jpg</Item>
+      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/26496573329920/wvemhjs2ywjhywrmmwfjy2ix_md.jpg</Item>
+      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/285759741483777/wglxmow2ywjhywuzmmqyztji_md.jpg</Item>
+      <Item medium="image" caption="img12">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/631372155166704/vi62eu82ywjhywuznzq2mmy4_md.jpg</Item>
+      <Item medium="image" caption="img13">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/26566678863651/7ang7du2ywjhywuzogmyyjyy_md.jpg</Item>
+      <Item medium="image" caption="img14">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/26569184669684/xvxoco82ywjhywuzyjrkmtk1_md.jpg</Item>
+      <Item medium="image" caption="img15">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/285767061324483/pkh3ybm2ywjhywuzytjkmdiz_md.jpg</Item>
+    </Media>
+    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
+    <Details>
+      <UsageType>Residential</UsageType>
+      <PropertyType>Residential / Apartment</PropertyType>
+      <Description><![CDATA[Em plena Avenida Atlântica, este apartamento de 370 m² ocupa uma posição privilegiada diante de um dos cenários mais emblemáticos do Rio de Janeiro.
+
+A amplitude conduz o projeto. O salão, generoso em suas proporções e de frente para o mar, cria uma atmosfera elegante para receber, com a paisagem de Copacabana como parte permanente dos ambientes. A cozinha americana, ampla e integrada, acompanha a proposta contemporânea e favorece uma convivência mais fluida.
+
+Originalmente com quatro quartos, a planta foi redesenhada para três, sendo duas suítes, privilegiando espaços mais amplos e confortáveis. O apartamento conta ainda com duas vagas de garagem.
+
+Um imóvel singular pela metragem, pela vista e, sobretudo, pelo privilégio de viver de frente para o mar em um dos endereços mais reconhecidos do Rio.
+
+Agende uma visita e conheça este imóvel incrível.]]></Description>
+      <ListPrice currency="BRL">7800000</ListPrice>
+      <LivingArea unit="square metres">370</LivingArea>
+      <PropertyAdministrationFee currency="BRL">5300</PropertyAdministrationFee>
+      <Iptu currency="BRL" period="Monthly">2500</Iptu>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>4</Bathrooms>
+      <Suites>2</Suites>
+      <Garage>2</Garage>
+      <Features>
+        <Feature>Parking Garage</Feature>
+        <Feature>Elevator</Feature>
+        <Feature>Bicycles Place</Feature>
+        <Feature>Disabled Access</Feature>
+        <Feature>Pets Allowed</Feature>
+        <Feature>Concierge 24h</Feature>
+        <Feature>Controlled Access</Feature>
+        <Feature>Electronic Gate</Feature>
+        <Feature>Walls Grids</Feature>
+        <Feature>Intercom</Feature>
+        <Feature>Fence</Feature>
+        <Feature>Security Camera</Feature>
+        <Feature>Alarm System</Feature>
+        <Feature>Ocean View</Feature>
+        <Feature>Large Room</Feature>
+        <Feature>Lavabo</Feature>
+        <Feature>Large Window</Feature>
+        <Feature>Home Office</Feature>
+        <Feature>Large Kitchen</Feature>
+        <Feature>Gourmet Kitchen</Feature>
+        <Feature>American Kitchen</Feature>
+        <Feature>Kitchen Cabinets</Feature>
+        <Feature>Heating</Feature>
+        <Feature>Integrated Environments</Feature>
+      </Features>
+    </Details>
+    <Location displayAddress="All">
+      <Country abbreviation="BR">Brasil</Country>
+      <State abbreviation="RJ">Rio de Janeiro</State>
+      <City>Rio de Janeiro</City>
+      <Neighborhood>Copacabana</Neighborhood>
+      <Address>Avenida Atlântica</Address>
+      <StreetNumber>2856</StreetNumber>
+      <Complement>202</Complement>
+      <PostalCode>22070-000</PostalCode>
+      <Latitude>-22.9741454</Latitude>
+      <Longitude>-43.1873203</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -354,7 +452,7 @@ Agende sua visita!]]></Description>
     <ListingID>192</ListingID>
     <Title><![CDATA[Ipanema | Apartamento reformado, excelente potencial de investimento..]]></Title>
     <TransactionType>For Sale</TransactionType>
-    <PublicationType>PREMIERE_2</PublicationType>
+    <PublicationType>PREMIUM</PublicationType>
     <Media>
       <Item medium="video">https://www.youtube.com/watch?v=Wa9vyedFOB8</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/24868868465835/cbfokk2ytuxmmy5nwyzzja1_md.jpg</Item>
@@ -559,134 +657,6 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <PostalCode>22471-003</PostalCode>
       <Latitude>-22.9741309</Latitude>
       <Longitude>-43.2001119</Longitude>
-    </Location>
-    <ContactInfo>
-      <Name>Lotus com Alma Imóveis</Name>
-      <Email>jaqueline.lothusrj@gmail.com</Email>
-      <Website>comalmaimoveis.com.br</Website>
-      <Telephone>(21) 98150-8894</Telephone>
-      <Location>
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">Rio de Janeiro</State>
-        <City>Rio de Janeiro</City>
-        <Neighborhood>Leblon</Neighborhood>
-        <Address>Rua Humberto de campos, 1003</Address>
-      </Location>
-    </ContactInfo>
-  </Listing>
-  <Listing>
-    <ListingID>87</ListingID>
-    <Title><![CDATA[Apartamento Garden à Venda no Alto Leblon: Conforto e Estilo com vista verde!]]></Title>
-    <TransactionType>For Sale</TransactionType>
-    <PublicationType>PREMIUM</PublicationType>
-    <Media>
-      <Item medium="video">https://www.youtube.com/watch?v=0fICgu7mnoI</Item>
-      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977470835544980/nqyl2pg2otqzmgy5ymq4mwvi_md.jpg</Item>
-      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977468056630717/xku7wrg2otqzmgy5ytjintuz_md.jpg</Item>
-      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977469234747409/qpmlwe82otqzmgy5ywjjnzuz_md.jpg</Item>
-      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977468664863452/bw9whis2otqzmgy5ywjmzdu3_md.jpg</Item>
-      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977470291171056/lqclve2otqzmgy5ymrimddl_md.jpg</Item>
-      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977469786640673/irv1jw2otqzmgy5ymrkodm2_md.jpg</Item>
-      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977472009671723/ndeekrk2otqzmgy5zdkwngvk_md.jpg</Item>
-      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977471478653129/cpdzuy2otqzmgy5zdkynji4_md.jpg</Item>
-      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977473154535681/z2rcra2otqzmgy5zwflmmrk_md.jpg</Item>
-      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977472600772537/ajghbu82otqzmgy5zwiwmzi5_md.jpg</Item>
-      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977474939395886/0w87i0w2otqzmgy5zmnjzjq0_md.jpg</Item>
-      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977474346515967/ewgzhac2otqzmgy5zmnmzjuy_md.jpg</Item>
-      <Item medium="image" caption="img12">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977473745506644/7dyge1o2otqzmgy5zmqzn2my_md.jpg</Item>
-      <Item medium="image" caption="img13">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977476060058496/y2qggm2otqzmgzhmtk5nzzm_md.jpg</Item>
-      <Item medium="image" caption="img14">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977475518599541/fyjciwq2otqzmgzhmtljmjfi_md.jpg</Item>
-      <Item medium="image" caption="img15">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977477695869995/io7theu2otqzmgzhmjllytk1_md.jpg</Item>
-      <Item medium="image" caption="img16">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977477171718158/kokmbx42otqzmgzhmmewode0_md.jpg</Item>
-      <Item medium="image" caption="img17">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977476544373340/edoscya2otqzmgzhmmeynje3_md.jpg</Item>
-      <Item medium="image" caption="img18">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977478716905537/ae9ntkw2otqzmgzhndq5ntzk_md.jpg</Item>
-      <Item medium="image" caption="img19">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977478191498119/dod2ack2otqzmgzhndrjm2m5_md.jpg</Item>
-      <Item medium="image" caption="img20">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977479317472337/mhduyo2otqzmgzhntzimgm4_md.jpg</Item>
-    </Media>
-    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
-    <Details>
-      <UsageType>Residential</UsageType>
-      <PropertyType>Residential / Apartment</PropertyType>
-      <Description><![CDATA[Descubra este belíssimo apartamento na Rua Sambaíba, no coração do Leblon, que combina uma ampla área externa com churrasqueira, varanda e 4 quartos, além de 2 vagas de garagem. Com 190 m² de puro charme, este imóvel é perfeito para quem busca conforto e praticidade.
-
-Ao entrar, você será recebido por uma ampla sala que se conecta a uma varanda iluminada, ideal para relaxar ou receber amigos. O espaço é perfeito para criar três ambientes distintos, complementado por um lavabo elegante. A cozinha planejada, equipada com armários de qualidade, e uma copa aconchegante tornam o dia a dia ainda mais funcional.
-
-Este apartamento conta com quatro quartos, todos com armários embutidos. Duas suítes plenas, sendo uma delas com closet e banheira, oferecem um toque especial de conforto. A área externa é um verdadeiro destaque: um garden iluminado com churrasqueira e chuveirão, perfeito para momentos de descontração e lazer em total privacidade.
-
-O imóvel ainda dispõe de uma área de serviço e uma pequena suíte de dependência completa, garantindo praticidade para o seu dia a dia.
-
-O prédio possui uma fachada moderna e é bem administrado, com apenas 4 unidades e 2 elevadores, proporcionando um ambiente tranquilo e exclusivo.
-
-Destaques do Imóvel:
-Ampla sala com varanda e lavabo
-4 quartos, sendo 2 suítes (1 com closet e banheira)
-Banheiro social
-Cozinha com despensa
-Área externa de 30 m² coberta com vidro retrátil, churrasqueira e chuveirão
-2 vagas de garagem na escritura
-
-Não perca a oportunidade de viver em um dos bairros mais desejados do Rio de Janeiro! Agende sua visita e venha conhecer este excelente apartamento garden no Alto Leblon!
-
-Ainda não encontrou o imóvel perfeito? Nós somos especialistas em imóveis de alto padrão nas melhores localizações do Leblon!
-
-Entre em contato conosco! Oferecemos um atendimento excepcionalmente personalizado, realizando uma busca detalhada e um mapeamento de mercado para identificar propriedades que se encaixem perfeitamente no seu perfil.
-
-Visite nosso site e descubra o nosso jeito com Alma de trabalhar :)
-
-Estamos prontos para transformar sua busca em uma experiência inesquecível!]]></Description>
-      <ListPrice currency="BRL">3880000</ListPrice>
-      <LivingArea unit="square metres">175</LivingArea>
-      <LotArea unit="square metres">195</LotArea>
-      <PropertyAdministrationFee currency="BRL">3785</PropertyAdministrationFee>
-      <Iptu currency="BRL" period="Monthly">1150</Iptu>
-      <Bedrooms>4</Bedrooms>
-      <Bathrooms>5</Bathrooms>
-      <Suites>2</Suites>
-      <YearBuilt>1991</YearBuilt>
-      <Garage>2</Garage>
-      <Features>
-        <Feature>Integrated Environments</Feature>
-        <Feature>Cooling</Feature>
-        <Feature>Kitchen Cabinets</Feature>
-        <Feature>Builtin Wardrobe</Feature>
-        <Feature>Blindex Box</Feature>
-        <Feature>Barbecue Balcony</Feature>
-        <Feature>Closet</Feature>
-        <Feature>Copa</Feature>
-        <Feature>Large Kitchen</Feature>
-        <Feature>Home Office</Feature>
-        <Feature>Lavabo</Feature>
-        <Feature>Planned Furniture</Feature>
-        <Feature>Dinner Room</Feature>
-        <Feature>Large Room</Feature>
-        <Feature>Balcony</Feature>
-        <Feature>Gourmet Balcony</Feature>
-        <Feature>Intercom</Feature>
-        <Feature>Controlled Access</Feature>
-        <Feature>Pets Allowed</Feature>
-        <Feature>Recreation Area</Feature>
-        <Feature>Maid's Quarters</Feature>
-        <Feature>Bicycles Place</Feature>
-        <Feature>Employee Dependency</Feature>
-        <Feature>Pantry</Feature>
-        <Feature>Elevator</Feature>
-        <Feature>Parking Garage</Feature>
-        <Feature>Wood Floor</Feature>
-        <Feature>Porcelain</Feature>
-      </Features>
-    </Details>
-    <Location displayAddress="All">
-      <Country abbreviation="BR">Brasil</Country>
-      <State abbreviation="RJ">Rio de Janeiro</State>
-      <City>Rio de Janeiro</City>
-      <Zone>Zona Sul</Zone>
-      <Neighborhood>Leblon</Neighborhood>
-      <Address>Rua Sambaíba</Address>
-      <StreetNumber>600</StreetNumber>
-      <Complement>101</Complement>
-      <PostalCode>22450-140</PostalCode>
-      <Latitude>-22.9860425</Latitude>
-      <Longitude>-43.234083</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -1070,7 +1040,7 @@ Ideal para quem busca apartamento de alto padrão no Leblon, em andar alto, com 
     <ListingID>197</ListingID>
     <Title><![CDATA[Apartamento com 3 Quartos à venda, 235m² - Leblon]]></Title>
     <TransactionType>For Sale</TransactionType>
-    <PublicationType>PREMIUM</PublicationType>
+    <PublicationType>STANDARD</PublicationType>
     <Media>
       <Item medium="video">https://www.youtube.com/watch?v=jRk1m3U2ggw</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/200386017739238/k9cgm42ythmmzeznzi0yzu1_md.jpg</Item>
@@ -1266,10 +1236,145 @@ Esse é um daqueles imóveis que falam por si — e pra quem sabe reconhecer um 
     </ContactInfo>
   </Listing>
   <Listing>
+    <ListingID>65</ListingID>
+    <Title><![CDATA[Cobertura Reformada com Vista Cinematográfica da Lagoa!]]></Title>
+    <TransactionType>For Sale</TransactionType>
+    <PublicationType>PREMIUM</PublicationType>
+    <Media>
+      <Item medium="video">https://www.youtube.com/watch?v=jRk1m3U2ggw</Item>
+      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977194443359370/5xdjeqe2otqzmgu4nmringyx_md.jpg</Item>
+      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977193875470637/gvrwpsw2otqzmgu4nmrlmjm1_md.jpg</Item>
+      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977192280068723/urguzbc2otqzmgu4njyxzwji_md.jpg</Item>
+      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977191740159836/h7itii2otqzmgu4nwqym2u5_md.jpg</Item>
+      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977193380760570/bfapjos2otqzmgu4nmuwmtc1_md.jpg</Item>
+      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977192804697229/l3rtc8s2otqzmgu4nmuxzti4_md.jpg</Item>
+      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977195026223465/jkpkphe2otqzmgu4otizzwnk_md.jpg</Item>
+      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977197052925839/ikrg1ki2otqzmgu4otk2nju0_md.jpg</Item>
+      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977196479749666/wnyjqmo2otqzmgu4otk4mmjl_md.jpg</Item>
+      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977195998807197/jm5eela2otqzmgu4owfhmjvm_md.jpg</Item>
+      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977195583851906/3cnztq2otqzmgu4owfizjyw_md.jpg</Item>
+      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977197578887164/q4k1vk2otqzmgu4ymfhzgyy_md.jpg</Item>
+      <Item medium="image" caption="img12">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977199788904957/zxlneu42otqzmgu4yzm1ytyw_md.jpg</Item>
+      <Item medium="image" caption="img13">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977199301841492/hp04cyw2otqzmgu4yzm5odlm_md.jpg</Item>
+      <Item medium="image" caption="img14">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977198685444887/nygnery2otqzmgu4yznjzdfj_md.jpg</Item>
+      <Item medium="image" caption="img15">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977198140805271/718z9102otqzmgu4yznmzdmw_md.jpg</Item>
+      <Item medium="image" caption="img16">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977200246982228/chua0g82otqzmgu4ztu5zgey_md.jpg</Item>
+      <Item medium="image" caption="img17">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977202899474114/hd5vquk2otqzmgu4zwuznzm1_md.jpg</Item>
+      <Item medium="image" caption="img18">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977202201467143/8y75nq42otqzmgu4zwu1m2uw_md.jpg</Item>
+      <Item medium="image" caption="img19">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977201632932689/im1qy9c2otqzmgu4zwu3nge4_md.jpg</Item>
+      <Item medium="image" caption="img20">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977200836672990/vmwvm3i2otqzmgu4zwu5yjyy_md.jpg</Item>
+      <Item medium="image" caption="img21">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977203453526387/nn8n8fa2otqzmgu5mthiymji_md.jpg</Item>
+      <Item medium="image" caption="img22">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977205864665659/1edoa2k2otqzmgu5mjvhnty3_md.jpg</Item>
+      <Item medium="image" caption="img23">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977205319913037/deluht42otqzmgu5mjvkmmnh_md.jpg</Item>
+      <Item medium="image" caption="img24">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977204807710228/cvli5hi2otqzmgu5mjywnjdm_md.jpg</Item>
+      <Item medium="image" caption="img25">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977204285645500/ue7xf6a2otqzmgu5mjyzmme4_md.jpg</Item>
+      <Item medium="image" caption="img26">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977206392684179/dankw142otqzmgu5nddkmjq4_md.jpg</Item>
+      <Item medium="image" caption="img27">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977208521202471/15tymna2otqzmgu5nta2zjnm_md.jpg</Item>
+      <Item medium="image" caption="img28">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977208007876654/0mtxmzm2otqzmgu5nta5mjjh_md.jpg</Item>
+      <Item medium="image" caption="img29">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977207455597415/qzdbx7e2otqzmgu5ntbinthl_md.jpg</Item>
+      <Item medium="image" caption="img30">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977206936555880/rkbwzhs2otqzmgu5ntbkztq2_md.jpg</Item>
+      <Item medium="image" caption="img31">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977209075320014/s4r2epu2otqzmgu5nzjmzwvh_md.jpg</Item>
+      <Item medium="image" caption="img32">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977211477865505/fb1uaaa2otqzmgu5n2jhzjc4_md.jpg</Item>
+      <Item medium="image" caption="img33">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977210886838892/gnguaui2otqzmgu5n2jkmzkx_md.jpg</Item>
+      <Item medium="image" caption="img34">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977210209938614/cixl9nu2otqzmgu5n2jmzwfl_md.jpg</Item>
+      <Item medium="image" caption="img35">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977209676499918/bfce2yy2otqzmgu5n2myotzj_md.jpg</Item>
+      <Item medium="image" caption="img36">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977212009534614/w21f9e02otqzmgu5ytfmzgiw_md.jpg</Item>
+    </Media>
+    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
+    <Details>
+      <UsageType>Residential</UsageType>
+      <PropertyType>Residential / Penthouse</PropertyType>
+      <Description><![CDATA[Apresentamos uma cobertura espetacular, totalmente reformada, que oferece uma vista deslumbrante da Lagoa. No primeiro piso, você encontrará uma sala em dois ambientes, integrada à sacada, além de cinco suítes, sendo duas canadenses, e uma suíte master com closet, garantindo conforto e privacidade.
+
+O acesso ao segundo piso é feito por uma elegante escada linear, que leva a uma ampla sala em dois ambientes, uma sala de jantar, lavabo, e uma copa-cozinha planejada que pode ser integrada à sala. Este andar também conta com uma área de serviço, despensa e duas dependências completas.
+
+No terceiro piso, você será recebido por uma confortável sala com varanda gourmet e um encantador jardim de inverno. A área externa é um verdadeiro convite ao lazer, com deck, piscina, sauna a vapor, e um espaço gourmet equipado com churrasqueira e lavabo.
+
+Não perca a oportunidade de viver em um espaço tão sofisticado e com uma vista de tirar o fôlego! Agende sua visita e venha conhecer esta incrível cobertura!
+
+Ainda não encontrou o imóvel perfeito? Nós somos especialistas em imóveis de alto padrão nas melhores localizações do Rio!
+
+Entre em contato conosco! Oferecemos um atendimento excepcionalmente personalizado, realizando uma busca detalhada e um mapeamento de mercado para identificar propriedades que se encaixem perfeitamente no seu perfil.
+
+Visite nosso site e descubra o nosso jeito com Alma de trabalhar :)
+
+Estamos prontos para transformar sua busca em uma experiência inesquecível!]]></Description>
+      <ListPrice currency="BRL">11850000</ListPrice>
+      <LivingArea unit="square metres">598</LivingArea>
+      <PropertyAdministrationFee currency="BRL">8500</PropertyAdministrationFee>
+      <Iptu currency="BRL" period="Monthly">2370</Iptu>
+      <Bedrooms>5</Bedrooms>
+      <Bathrooms>4</Bathrooms>
+      <Suites>4</Suites>
+      <YearBuilt>1990</YearBuilt>
+      <Garage>3</Garage>
+      <Features>
+        <Feature>Integrated Environments</Feature>
+        <Feature>Cooling</Feature>
+        <Feature>Kitchen Cabinets</Feature>
+        <Feature>Builtin Wardrobe</Feature>
+        <Feature>Blindex Box</Feature>
+        <Feature>Closet</Feature>
+        <Feature>Copa</Feature>
+        <Feature>Lavabo</Feature>
+        <Feature>Planned Furniture</Feature>
+        <Feature>Dinner Room</Feature>
+        <Feature>Large Room</Feature>
+        <Feature>Balcony</Feature>
+        <Feature>Gourmet Balcony</Feature>
+        <Feature>Panoramic View</Feature>
+        <Feature>TV Security</Feature>
+        <Feature>Intercom</Feature>
+        <Feature>Controlled Access</Feature>
+        <Feature>Pets Allowed</Feature>
+        <Feature>Gourmet Area</Feature>
+        <Feature>Pool</Feature>
+        <Feature>Sauna</Feature>
+        <Feature>Maid's Quarters</Feature>
+        <Feature>Bicycles Place</Feature>
+        <Feature>Employee Dependency</Feature>
+        <Feature>Pantry</Feature>
+        <Feature>Elevator</Feature>
+        <Feature>Parking Garage</Feature>
+        <Feature>Entrance Hall</Feature>
+        <Feature>Wood Floor</Feature>
+        <Feature>Porcelain</Feature>
+        <Feature>Playground</Feature>
+        <Feature>Party Room</Feature>
+      </Features>
+    </Details>
+    <Location displayAddress="All">
+      <Country abbreviation="BR">Brasil</Country>
+      <State abbreviation="RJ">Rio de Janeiro</State>
+      <City>Rio de Janeiro</City>
+      <Zone>Zona Sul</Zone>
+      <Neighborhood>Ipanema</Neighborhood>
+      <Address>Rua Joana Angélica</Address>
+      <StreetNumber>250</StreetNumber>
+      <Complement>Cobertura</Complement>
+      <PostalCode>22420-030</PostalCode>
+      <Latitude>-22.9807721</Latitude>
+      <Longitude>-43.2045547</Longitude>
+    </Location>
+    <ContactInfo>
+      <Name>Lotus com Alma Imóveis</Name>
+      <Email>jaqueline.lothusrj@gmail.com</Email>
+      <Website>comalmaimoveis.com.br</Website>
+      <Telephone>(21) 98150-8894</Telephone>
+      <Location>
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>Rio de Janeiro</City>
+        <Neighborhood>Leblon</Neighborhood>
+        <Address>Rua Humberto de campos, 1003</Address>
+      </Location>
+    </ContactInfo>
+  </Listing>
+  <Listing>
     <ListingID>70</ListingID>
     <Title><![CDATA[Cobertura com vista Panorâmica para Lagoa, Cristo, Pedra da Gávea e Dois Irmãos!]]></Title>
     <TransactionType>For Sale</TransactionType>
-    <PublicationType>PREMIUM</PublicationType>
+    <PublicationType>STANDARD</PublicationType>
     <Media>
       <Item medium="video">https://www.youtube.com/watch?v=pZdsG0Q9ElM</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977259449832782/gaprfbc2otqzmgvjoddhzmri_md.jpg</Item>
@@ -1374,125 +1479,6 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <PostalCode>22411-040</PostalCode>
       <Latitude>-22.9808662</Latitude>
       <Longitude>-43.2041697</Longitude>
-    </Location>
-    <ContactInfo>
-      <Name>Lotus com Alma Imóveis</Name>
-      <Email>jaqueline.lothusrj@gmail.com</Email>
-      <Website>comalmaimoveis.com.br</Website>
-      <Telephone>(21) 98150-8894</Telephone>
-      <Location>
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">Rio de Janeiro</State>
-        <City>Rio de Janeiro</City>
-        <Neighborhood>Leblon</Neighborhood>
-        <Address>Rua Humberto de campos, 1003</Address>
-      </Location>
-    </ContactInfo>
-  </Listing>
-  <Listing>
-    <ListingID>89</ListingID>
-    <Title><![CDATA[Descubra Seu Novo Lar: Linda Cobertura Duplex na Rua Redentor!]]></Title>
-    <TransactionType>For Sale</TransactionType>
-    <PublicationType>PREMIUM</PublicationType>
-    <Media>
-      <Item medium="video">https://www.youtube.com/watch?v=hCvg9F2E0rs</Item>
-      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977512215112670/97ioch82otqzmgzjnge5ota1_md.jpg</Item>
-      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977509352551495/ixwy4xq2otqzmgzjmzczotgx_md.jpg</Item>
-      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977511599194968/f7zjze2otqzmgzjngfjywu3_md.jpg</Item>
-      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977509879803408/uupxnzo2otqzmgzjndawmjzj_md.jpg</Item>
-      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977511098971720/fwegobo2otqzmgzjngfmnza2_md.jpg</Item>
-      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977510610067580/hlqhv82otqzmgzjngiymtu4_md.jpg</Item>
-      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977512796644851/e8iy3ko2otqzmgzjnmrmn2uz_md.jpg</Item>
-      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977515445956693/zeoqn02otqzmgzjnzc3ntc0_md.jpg</Item>
-      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977513994593323/l2dupuw2otqzmgzjnzdiytgy_md.jpg</Item>
-      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977513402379745/n0bhjis2otqzmgzjnzdmmzqz_md.jpg</Item>
-      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977516805042700/u7bws2otqzmgzjytmznwq3_md.jpg</Item>
-      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977516106047700/u888r82otqzmgzjytm3njy3_md.jpg</Item>
-      <Item medium="image" caption="img12">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977518557595148/gt01ju02otqzmgzjyjc2ytzi_md.jpg</Item>
-      <Item medium="image" caption="img13">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977518037550842/7b9ye5o2otqzmgzjyjdhowm4_md.jpg</Item>
-      <Item medium="image" caption="img14">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977517394216316/aqpchtw2otqzmgzjyjdkywjj_md.jpg</Item>
-      <Item medium="image" caption="img15">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977519699814906/4hqg3s42otqzmgzjzdm4otk5_md.jpg</Item>
-      <Item medium="image" caption="img16">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977519118725429/fa3fuws2otqzmgzjzdnhnzdh_md.jpg</Item>
-      <Item medium="image" caption="img17">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977521307634346/exezft42otqzmgzjztrlywfk_md.jpg</Item>
-      <Item medium="image" caption="img18">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977520812194443/xa8gzky2otqzmgzjztuwzgfm_md.jpg</Item>
-      <Item medium="image" caption="img19">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977520221725723/4nugct82otqzmgzjztuzowy0_md.jpg</Item>
-      <Item medium="image" caption="img20">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977522380086488/mfey4iq2otqzmgzjzmq4mgm5_md.jpg</Item>
-      <Item medium="image" caption="img21">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977521771473185/ljlgdpm2otqzmgzjzmq5zgm1_md.jpg</Item>
-      <Item medium="image" caption="img22">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977524132806146/k1gftou2otqzmgzkmtblzte0_md.jpg</Item>
-      <Item medium="image" caption="img23">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977523650239265/vdxtkk82otqzmgzkmtexmzm2_md.jpg</Item>
-      <Item medium="image" caption="img24">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977522958705289/rubutm2otqzmgzkmteznjc3_md.jpg</Item>
-      <Item medium="image" caption="img25">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977524622919500/mp5f3ws2otqzmgzkmmi1ntq0_md.jpg</Item>
-    </Media>
-    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
-    <Details>
-      <UsageType>Residential</UsageType>
-      <PropertyType>Residential / Penthouse</PropertyType>
-      <Description><![CDATA[Apresentamos a primeira locação desta encantadora cobertura duplex, perfeita para quem busca conforto e estilo em um só lugar.
-
-1º Piso: Ao entrar, você é recebido por um hall acolhedor que leva a uma ampla sala de estar/jantar, ideal para momentos em família. A varanda fechada com cortina de vidro proporciona um espaço extra para relaxar e apreciar a vista. O piso conta ainda com um lavabo e uma área íntima com 3 suítes, sendo a master equipada com um espaçoso closet. A copa/cozinha é funcional e prática, acompanhada de uma área de serviço e dependência de serviço com banheiro.
-
-2º Piso: Prepare-se para se encantar! Este andar conta com uma varanda que oferece uma linda vista para a copa das árvores, perfeita para momentos de tranquilidade. A área coberta é ideal para receber amigos, e a piscina é o toque final para os dias de calor.
-
-Conforto e Segurança: O prédio conta com portaria 24 horas e 2 vagas de garagem, garantindo a segurança e comodidade que você e sua família merecem.
-
-Não perca a oportunidade de viver em um espaço que combina sofisticação e praticidade. Agende sua visita e venha conhecer sua nova casa!
-
-Entre em contato conosco! Oferecemos um atendimento excepcionalmente personalizado, realizando uma busca detalhada e um mapeamento de mercado para identificar propriedades que se encaixem perfeitamente no seu perfil.
-
-Visite nosso site e descubra o nosso jeito com Alma de trabalhar :)
-
-Estamos prontos para transformar sua busca em uma experiência inesquecível!]]></Description>
-      <ListPrice currency="BRL">5500000</ListPrice>
-      <LivingArea unit="square metres">269</LivingArea>
-      <PropertyAdministrationFee currency="BRL">7000</PropertyAdministrationFee>
-      <Iptu currency="BRL" period="Monthly">2242</Iptu>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>5</Bathrooms>
-      <Suites>3</Suites>
-      <YearBuilt>2020</YearBuilt>
-      <Garage>2</Garage>
-      <Features>
-        <Feature>Integrated Environments</Feature>
-        <Feature>Cooling</Feature>
-        <Feature>Blindex Box</Feature>
-        <Feature>Barbecue Balcony</Feature>
-        <Feature>Closet</Feature>
-        <Feature>Large Kitchen</Feature>
-        <Feature>Home Office</Feature>
-        <Feature>Lavabo</Feature>
-        <Feature>Dinner Room</Feature>
-        <Feature>Large Room</Feature>
-        <Feature>Gourmet Balcony</Feature>
-        <Feature>TV Security</Feature>
-        <Feature>Intercom</Feature>
-        <Feature>Glass Wall</Feature>
-        <Feature>Walls Grids</Feature>
-        <Feature>Electronic Gate</Feature>
-        <Feature>Controlled Access</Feature>
-        <Feature>Pets Allowed</Feature>
-        <Feature>Recreation Area</Feature>
-        <Feature>Pool</Feature>
-        <Feature>Maid's Quarters</Feature>
-        <Feature>Bicycles Place</Feature>
-        <Feature>Employee Dependency</Feature>
-        <Feature>Elevator</Feature>
-        <Feature>Parking Garage</Feature>
-        <Feature>Entrance Hall</Feature>
-        <Feature>Porcelain</Feature>
-      </Features>
-    </Details>
-    <Location displayAddress="All">
-      <Country abbreviation="BR">Brasil</Country>
-      <State abbreviation="RJ">Rio de Janeiro</State>
-      <City>Rio de Janeiro</City>
-      <Zone>Zona Sul</Zone>
-      <Neighborhood>Ipanema</Neighborhood>
-      <Address>Rua Redentor</Address>
-      <StreetNumber>50</StreetNumber>
-      <Complement>cobertura 01</Complement>
-      <PostalCode>22421-030</PostalCode>
-      <Latitude>-22.9823971</Latitude>
-      <Longitude>-43.2061529</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -1946,6 +1932,113 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
     </ContactInfo>
   </Listing>
   <Listing>
+    <ListingID>29</ListingID>
+    <Title><![CDATA[Cobertura duplex totalmente reformada na melhor localização em Botafogo]]></Title>
+    <TransactionType>For Sale</TransactionType>
+    <PublicationType>PREMIUM</PublicationType>
+    <Media>
+      <Item medium="video">https://www.youtube.com/watch?v=jRk1m3U2ggw</Item>
+      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976609312115984/aykeony2otqzmgmzzdlmodrj_md.jpg</Item>
+      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976606508901226/dlm1aoi2otqzmgmzyzk5yzvi_md.jpg</Item>
+      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976608709077500/hwlvkq2otqzmgmzzgeymdiw_md.jpg</Item>
+      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976608029102843/bonzpne2otqzmgmzzgezymix_md.jpg</Item>
+      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976607071377310/lqf0ake2otqzmgmzzdjlzja1_md.jpg</Item>
+      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976607557064055/l0tl6lm2otqzmgmzzge1nza2_md.jpg</Item>
+      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976609834282534/ixp2h982otqzmgmzzmu5m2fi_md.jpg</Item>
+      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976612041185406/qchinpu2otqzmgm0mdg2zgzm_md.jpg</Item>
+      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976611533990275/vviimzc2otqzmgm0mdg4n2qx_md.jpg</Item>
+      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976611013070028/epd6k5a2otqzmgm0mdhimgmx_md.jpg</Item>
+      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976610459528208/2xzunxs2otqzmgm0mdhkytix_md.jpg</Item>
+      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976612546219427/tauezrc2otqzmgm0mmeyztzj_md.jpg</Item>
+    </Media>
+    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
+    <Details>
+      <UsageType>Residential</UsageType>
+      <PropertyType>Residential / Penthouse</PropertyType>
+      <Description><![CDATA[Descubra essa magnífica cobertura duplex totalmente reformada, com 170m² de puro conforto e modernidade, localizada em uma das ruas mais seguras de Botafogo.
+
+No primeiro andar, você encontra uma ampla sala com lavabo, varanda e duas suítes, além de uma cozinha planejada com copa e armários embutidos.
+
+A praticidade é garantida com a área de serviço completa e uma suíte de empregada que pode ser transformada em escritório.
+
+No segundo andar, um salão espaçoso, perfeito para receber amigos e familiares, integrado a uma sala de jantar, TV e um bar com cozinha gourmet. O destaque vai para a área externa com uma deliciosa piscina iluminada e churrasqueira, ideal para relaxar e aproveitar momentos inesquecíveis.
+
+Além disso, a suíte master oferece o máximo de conforto, com muitos armários planejados e um escritório privativo.
+
+O imóvel conta com ar-condicionado split em todos os cômodos, iluminação em LED, circuito interno de TV e duas vagas de garagem.
+
+Tudo isso em uma localização privilegiada, próxima a mercados e escolas, com segurança garantida pela delegacia próxima.
+
+Agende sua visita e venha conhecer essa cobertura incrível!
+
+Não é ainda o que você procura? Entre contato conosco, trabalhamos com atendimento super personalizado, fazendo uma busca e mapeamento de mercado com imóveis dentro do perfil que está buscando.
+
+Acesse o nosso site, venha descobrir o nosso jeito C' ALMA de trabalhar :)
+
+Estamos prontos para transformar sua busca em uma experiência inesquecível!]]></Description>
+      <ListPrice currency="BRL">2250000</ListPrice>
+      <LivingArea unit="square metres">170</LivingArea>
+      <PropertyAdministrationFee currency="BRL">2400</PropertyAdministrationFee>
+      <Iptu currency="BRL" period="Monthly">600</Iptu>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>3</Bathrooms>
+      <Suites>3</Suites>
+      <Garage>2</Garage>
+      <Features>
+        <Feature>Integrated Environments</Feature>
+        <Feature>Cooling</Feature>
+        <Feature>Kitchen Cabinets</Feature>
+        <Feature>Builtin Wardrobe</Feature>
+        <Feature>Blindex Box</Feature>
+        <Feature>Home Office</Feature>
+        <Feature>Lavabo</Feature>
+        <Feature>Planned Furniture</Feature>
+        <Feature>Dinner Room</Feature>
+        <Feature>Balcony</Feature>
+        <Feature>Gourmet Balcony</Feature>
+        <Feature>TV Security</Feature>
+        <Feature>Intercom</Feature>
+        <Feature>Walls Grids</Feature>
+        <Feature>Electronic Gate</Feature>
+        <Feature>Pets Allowed</Feature>
+        <Feature>Playground</Feature>
+        <Feature>Maid's Quarters</Feature>
+        <Feature>Bicycles Place</Feature>
+        <Feature>Employee Dependency</Feature>
+        <Feature>Elevator</Feature>
+        <Feature>Parking Garage</Feature>
+        <Feature>Porcelain</Feature>
+        <Feature>Controlled Access</Feature>
+      </Features>
+    </Details>
+    <Location displayAddress="All">
+      <Country abbreviation="BR">Brasil</Country>
+      <State abbreviation="RJ">Rio de Janeiro</State>
+      <City>Rio de Janeiro</City>
+      <Zone>Zona Sul</Zone>
+      <Neighborhood>Botafogo</Neighborhood>
+      <Address>Rua Marechal Niemeyer</Address>
+      <StreetNumber>20</StreetNumber>
+      <Complement>404</Complement>
+      <PostalCode>22251-060</PostalCode>
+      <Latitude>-22.9461783</Latitude>
+      <Longitude>-43.1864215</Longitude>
+    </Location>
+    <ContactInfo>
+      <Name>Lotus com Alma Imóveis</Name>
+      <Email>jaqueline.lothusrj@gmail.com</Email>
+      <Website>comalmaimoveis.com.br</Website>
+      <Telephone>(21) 98150-8894</Telephone>
+      <Location>
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>Rio de Janeiro</City>
+        <Neighborhood>Leblon</Neighborhood>
+        <Address>Rua Humberto de campos, 1003</Address>
+      </Location>
+    </ContactInfo>
+  </Listing>
+  <Listing>
     <ListingID>181</ListingID>
     <Title><![CDATA[Cobertura reformada no Leblon]]></Title>
     <TransactionType>For Sale</TransactionType>
@@ -2031,7 +2124,7 @@ Não perca a oportunidade e venha conhecer!]]></Description>
     <ListingID>182</ListingID>
     <Title><![CDATA[Cobertura reformada no Leblon com Vista mar e Dois irmãos]]></Title>
     <TransactionType>For Sale</TransactionType>
-    <PublicationType>PREMIUM</PublicationType>
+    <PublicationType>STANDARD</PublicationType>
     <Media>
       <Item medium="video">https://www.youtube.com/watch?v=lIJ54kOSTpE</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/115717657535616/zv0m18e2ownjmtg5m2jmotm1_md.jpg</Item>
@@ -2133,7 +2226,7 @@ Agende sua visita e sinta pessoalmente tudo o que este imóvel pode despertar em
     <ListingID>196</ListingID>
     <Title><![CDATA[Cobertura duplex com vista cinematográfica de 180° para o mar e Pedra da Gávea]]></Title>
     <TransactionType>For Sale</TransactionType>
-    <PublicationType>PREMIUM</PublicationType>
+    <PublicationType>SUPER_PREMIUM</PublicationType>
     <Media>
       <Item medium="video">https://www.youtube.com/watch?v=PbsV8_ONSFk</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18624146165256/dhwhpyi2ytk5otlimzqxyznh_md.jpg</Item>
@@ -2252,7 +2345,7 @@ Agende sua visita e sinta pessoalmente tudo o que este imóvel pode despertar em
     <ListingID>106</ListingID>
     <Title><![CDATA[Excelente Apartamento com Vista Encantadora para as Copas das Árvores!]]></Title>
     <TransactionType>For Sale</TransactionType>
-    <PublicationType>STANDARD</PublicationType>
+    <PublicationType>PREMIUM</PublicationType>
     <Media>
       <Item medium="video">https://www.youtube.com/watch?v=0v6vNh4ICsI</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977805896382509/rbxgkms2otqzmtblywq3mmzh_md.jpg</Item>
@@ -2359,144 +2452,6 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <PostalCode>22430-190</PostalCode>
       <Latitude>-22.982972</Latitude>
       <Longitude>-43.2251464</Longitude>
-    </Location>
-    <ContactInfo>
-      <Name>Lotus com Alma Imóveis</Name>
-      <Email>jaqueline.lothusrj@gmail.com</Email>
-      <Website>comalmaimoveis.com.br</Website>
-      <Telephone>(21) 98150-8894</Telephone>
-      <Location>
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">Rio de Janeiro</State>
-        <City>Rio de Janeiro</City>
-        <Neighborhood>Leblon</Neighborhood>
-        <Address>Rua Humberto de campos, 1003</Address>
-      </Location>
-    </ContactInfo>
-  </Listing>
-  <Listing>
-    <ListingID>110</ListingID>
-    <Title><![CDATA[Apartamento Garden à Venda no Baixo Leblon: Varanda, Piscina e Área Gourmet!]]></Title>
-    <TransactionType>For Sale</TransactionType>
-    <PublicationType>PREMIUM</PublicationType>
-    <Media>
-      <Item medium="video">https://www.youtube.com/watch?v=bLqDUUrh-NU</Item>
-      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977854387783439/ikz7huq2otqzmtexymq3mzcw_md.jpg</Item>
-      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977853040095948/q7egq82otqzmtexyji3ngri_md.jpg</Item>
-      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977855933548433/l9qjzuw2otqzmtexy2yzywyy_md.jpg</Item>
-      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977852460980788/s8altv82otqzmtexythlmtyz_md.jpg</Item>
-      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977855423268803/ha6mtjw2otqzmtexzdaymgm2_md.jpg</Item>
-      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977853778788136/wktrkrm2otqzmtexymriodiz_md.jpg</Item>
-      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977854898212422/bggyhao2otqzmtexzda0otkw_md.jpg</Item>
-      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977857101047471/ni7kgas2otqzmtexzthhn2qy_md.jpg</Item>
-      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977856455722590/c1juney2otqzmtexzthjyzyx_md.jpg</Item>
-      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977858598828573/v2b1hqw2otqzmtexzmfkndfj_md.jpg</Item>
-      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977858097717521/6rtx5c42otqzmtexzmfmnju4_md.jpg</Item>
-      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977857608385530/axlvhgm2otqzmtexzmixzmjm_md.jpg</Item>
-      <Item medium="image" caption="img12">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977859632259065/ead61d02otqzmteymtm4zgy5_md.jpg</Item>
-      <Item medium="image" caption="img13">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977859120245303/1hsygeo2otqzmteymtnhzgqz_md.jpg</Item>
-      <Item medium="image" caption="img14">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977861601876465/kbjqz5o2otqzmteymjgzmwvk_md.jpg</Item>
-      <Item medium="image" caption="img15">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977860947928436/nx2boe2otqzmteymjg1mgy1_md.jpg</Item>
-      <Item medium="image" caption="img16">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977860432263927/vfxzska2otqzmteymjg3mdbm_md.jpg</Item>
-      <Item medium="image" caption="img17">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977862743277592/mjhoxdi2otqzmteyndnkotnj_md.jpg</Item>
-      <Item medium="image" caption="img18">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977862148755122/bdqnfnm2otqzmteyndqxyzyw_md.jpg</Item>
-      <Item medium="image" caption="img19">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977864383697725/wtgnrx82otqzmteyntyyyjay_md.jpg</Item>
-      <Item medium="image" caption="img20">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977863803085215/6qaisho2otqzmteynty0yjjm_md.jpg</Item>
-      <Item medium="image" caption="img21">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977863299664206/skwymt82otqzmteynty2ytjm_md.jpg</Item>
-      <Item medium="image" caption="img22">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977865611784740/nlzkclo2otqzmteynzexmtgz_md.jpg</Item>
-      <Item medium="image" caption="img23">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977864959838612/sao64d42otqzmteynzezyjfh_md.jpg</Item>
-      <Item medium="image" caption="img24">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977867049289045/llykk2otqzmteyodjhmzzm_md.jpg</Item>
-      <Item medium="image" caption="img25">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977866605761250/dj314hk2otqzmteyodjjmthi_md.jpg</Item>
-      <Item medium="image" caption="img26">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977866067985054/zncdki2otqzmteyodjlmtjj_md.jpg</Item>
-      <Item medium="image" caption="img27">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977868014132010/00cn5di2otqzmteyowfhmwq5_md.jpg</Item>
-      <Item medium="image" caption="img28">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977867583779917/b7ucps2otqzmteyowfjmgfm_md.jpg</Item>
-      <Item medium="image" caption="img29">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977868494075935/m5tm0oq2otqzmteyytk2mjgx_md.jpg</Item>
-    </Media>
-    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
-    <Details>
-      <UsageType>Residential</UsageType>
-      <PropertyType>Residential / Apartment</PropertyType>
-      <Description><![CDATA[Apresentamos um encantador apartamento garden de 275 m², localizado na melhor área do Baixo Leblon, no início da Timóteo da Costa. Este imóvel é perfeito para quem busca conforto e estilo em uma localização privilegiada.
-
-Com um lindo projeto de arquitetura, o apartamento conta com uma ampla sala que integra três ambientes e uma cozinha americana totalmente planejada e equipada. A área externa é um verdadeiro destaque, com um espaço gourmet e uma piscina privativa, ideal para momentos de lazer e descontração. Um banheiro completo na área externa garante praticidade para você e seus convidados.
-
-Na parte interna, você encontrará um lavabo e três quartos, sendo duas suítes plenas. A suíte master possui um amplo closet, muitos armários e acesso direto à área externa, proporcionando um espaço aconchegante e funcional. Todos os cômodos são bem planejados e equipados com ar condicionado split, garantindo conforto em todas as estações.
-
-O apartamento também oferece 2 vagas na garagem e conta com portaria 24 horas, garantindo segurança e tranquilidade para você e sua família.
-
-Este apartamento garden é ideal para quem valoriza um imóvel com personalidade e bom gosto, além de um espaço aberto para relaxar e receber amigos.
-
-O prédio, construído em 2020, possui uma fachada moderna, dois elevadores e uma garagem de excelente qualidade, tudo isso em uma localização privilegiada no Baixo Leblon.
-
-Não perca a oportunidade de conhecer este imóvel único! Agende sua visita e venha descobrir seu novo lar no Baixo Leblon!
-
-Ainda não encontrou o imóvel perfeito? Nós somos especialistas em imóveis de alto padrão nas melhores localizações do Leblon!
-
-Entre em contato conosco! Oferecemos um atendimento excepcionalmente personalizado, realizando uma busca detalhada e um mapeamento de mercado para identificar propriedades que se encaixem perfeitamente no seu perfil.
-
-Visite nosso site e descubra o nosso jeito com Alma de trabalhar :)
-
-Estamos prontos para transformar sua busca em uma experiência inesquecível!]]></Description>
-      <ListPrice currency="BRL">6500000</ListPrice>
-      <LivingArea unit="square metres">275</LivingArea>
-      <PropertyAdministrationFee currency="BRL">4000</PropertyAdministrationFee>
-      <Iptu currency="BRL" period="Monthly">2175</Iptu>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>4</Bathrooms>
-      <Suites>2</Suites>
-      <YearBuilt>2020</YearBuilt>
-      <Garage>2</Garage>
-      <Features>
-        <Feature>Integrated Environments</Feature>
-        <Feature>Cooling</Feature>
-        <Feature>Kitchen Cabinets</Feature>
-        <Feature>Builtin Wardrobe</Feature>
-        <Feature>Bathroom Cabinets</Feature>
-        <Feature>Blindex Box</Feature>
-        <Feature>Closet</Feature>
-        <Feature>Copa</Feature>
-        <Feature>American Kitchen</Feature>
-        <Feature>Gourmet Kitchen</Feature>
-        <Feature>Large Kitchen</Feature>
-        <Feature>Lavabo</Feature>
-        <Feature>Planned Furniture</Feature>
-        <Feature>Dinner Room</Feature>
-        <Feature>Large Room</Feature>
-        <Feature>Balcony</Feature>
-        <Feature>Wall Balcony</Feature>
-        <Feature>Gourmet Balcony</Feature>
-        <Feature>Security Camera</Feature>
-        <Feature>TV Security</Feature>
-        <Feature>Intercom</Feature>
-        <Feature>Glass Wall</Feature>
-        <Feature>Walls Grids</Feature>
-        <Feature>Electronic Gate</Feature>
-        <Feature>Pets Allowed</Feature>
-        <Feature>Recreation Area</Feature>
-        <Feature>Pool Bar</Feature>
-        <Feature>Pool</Feature>
-        <Feature>Maid's Quarters</Feature>
-        <Feature>Bicycles Place</Feature>
-        <Feature>Gas Shower</Feature>
-        <Feature>Pantry</Feature>
-        <Feature>Elevator</Feature>
-        <Feature>Parking Garage</Feature>
-        <Feature>Porcelain</Feature>
-        <Feature>Concierge 24h</Feature>
-      </Features>
-    </Details>
-    <Location displayAddress="All">
-      <Country abbreviation="BR">Brasil</Country>
-      <State abbreviation="RJ">Rio de Janeiro</State>
-      <City>Rio de Janeiro</City>
-      <Zone>Zona Sul</Zone>
-      <Neighborhood>Leblon</Neighborhood>
-      <Address>Rua Timóteo da Costa</Address>
-      <StreetNumber>81</StreetNumber>
-      <Complement>02</Complement>
-      <PostalCode>22450-130</PostalCode>
-      <Latitude>-22.9842636</Latitude>
-      <Longitude>-43.2300152</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -2736,6 +2691,120 @@ Um imóvel raro no Leblon, que combina espaço, conforto e excelente localizaç�
     </ContactInfo>
   </Listing>
   <Listing>
+    <ListingID>141</ListingID>
+    <Title><![CDATA[Casa de Condomínio à Venda com 6 quartos, 332,8m²]]></Title>
+    <TransactionType>For Sale</TransactionType>
+    <PublicationType>PREMIUM</PublicationType>
+    <Media>
+      <Item medium="video">https://www.youtube.com/watch?v=pu6TsUFGDBc</Item>
+      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978446617169896/sfertdc2otqzmtm2yznkmwzj_md.jpg</Item>
+      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978445544572337/mrxexn82otqzmtm2ytdizwzm_md.jpg</Item>
+      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978443706334216/luqm2ay2otqzmtm2owm5zme0_md.jpg</Item>
+      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978442933680906/ryrahzy2otqzmtm2otbkmdy0_md.jpg</Item>
+      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978444916953531/s19xcty2otqzmtm2ytgwzdg2_md.jpg</Item>
+      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978444421889815/isas4w42otqzmtm2ytg0mjc3_md.jpg</Item>
+      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978446138215247/qjhgako2otqzmtm2yznmm2yy_md.jpg</Item>
+      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978448158950672/y8uc4lw2otqzmtm2zdq5ntll_md.jpg</Item>
+      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978447721584149/it0urmq2otqzmtm2zdrknja4_md.jpg</Item>
+      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978447215345917/qwnxjw2otqzmtm2zduxnzvj_md.jpg</Item>
+      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978449404630130/hv8ym6e2otqzmtm2zwmzodk1_md.jpg</Item>
+      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978448687986201/0n53als2otqzmtm2zwm1nzll_md.jpg</Item>
+      <Item medium="image" caption="img12">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978450958499384/kpkll8w2otqzmtm3mdiynjg0_md.jpg</Item>
+      <Item medium="image" caption="img13">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978450466457793/z0qibju2otqzmtm3mdi0m2m0_md.jpg</Item>
+      <Item medium="image" caption="img14">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978450035255091/ymtgve2otqzmtm3mdi2mtzm_md.jpg</Item>
+      <Item medium="image" caption="img15">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978452193102655/hwqjnw2otqzmtm3mwmwnge5_md.jpg</Item>
+      <Item medium="image" caption="img16">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978451682880673/gjmi0i02otqzmtm3mwm0mmzl_md.jpg</Item>
+      <Item medium="image" caption="img17">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978453788915643/wuopec82otqzmtm3mmq3mtri_md.jpg</Item>
+      <Item medium="image" caption="img18">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978453269296693/aj6sdfm2otqzmtm3mmq5mtbk_md.jpg</Item>
+      <Item medium="image" caption="img19">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978452778083446/foshh02otqzmtm3mmrinmzh_md.jpg</Item>
+      <Item medium="image" caption="img20">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978454832926771/sfctp0s2otqzmtm3ndvlnwu4_md.jpg</Item>
+      <Item medium="image" caption="img21">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978454272778252/7llztvo2otqzmtm3ndywmwq3_md.jpg</Item>
+      <Item medium="image" caption="img22">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978456580374930/0vhm0h02otqzmtm3ntdkzwe4_md.jpg</Item>
+      <Item medium="image" caption="img23">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978456027514134/tfe7nhg2otqzmtm3ntgwzgq3_md.jpg</Item>
+      <Item medium="image" caption="img24">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978455419038159/cp5f6cs2otqzmtm3ntgzyzk2_md.jpg</Item>
+      <Item medium="image" caption="img25">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978457627920080/mpd9njm2otqzmtm3nzm0nddh_md.jpg</Item>
+      <Item medium="image" caption="img26">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978457101647114/ayrcw82otqzmtm3nzm2ntmw_md.jpg</Item>
+      <Item medium="image" caption="img27">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978459167541287/rjwhgdm2otqzmtm3odmzymyz_md.jpg</Item>
+      <Item medium="image" caption="img28">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978458599927715/qobezis2otqzmtm3odm1owu2_md.jpg</Item>
+      <Item medium="image" caption="img29">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978458106527464/skug742otqzmtm3odm3n2vh_md.jpg</Item>
+      <Item medium="image" caption="img30">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978460262961370/uvn7do82otqzmtm3owm2yme0_md.jpg</Item>
+      <Item medium="image" caption="img31">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978459707558960/5pgtktw2otqzmtm3owm5yme1_md.jpg</Item>
+      <Item medium="image" caption="img32">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978461893869208/1p7n1e2otqzmtm3ywvhzdrl_md.jpg</Item>
+      <Item medium="image" caption="img33">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978461349323060/uzf37rs2otqzmtm3ywvjy2jk_md.jpg</Item>
+      <Item medium="image" caption="img34">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978460857225538/atvd6lc2otqzmtm3ywvlyznk_md.jpg</Item>
+      <Item medium="image" caption="img35">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978463298786744/ubyvfsi2otqzmtm3y2qymjyy_md.jpg</Item>
+      <Item medium="image" caption="img36">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978462750279353/yim5b502otqzmtm3y2q0owey_md.jpg</Item>
+      <Item medium="image" caption="img37">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978464383946725/kayhz1m2otqzmtm3zguzy2jl_md.jpg</Item>
+      <Item medium="image" caption="img38">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978463829929247/gxt2bn42otqzmtm3zgu3zdvk_md.jpg</Item>
+    </Media>
+    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
+    <Details>
+      <UsageType>Residential</UsageType>
+      <PropertyType>Residential / Condo</PropertyType>
+      <Description><![CDATA[Maravilhosa casa à venda no Condomínio PortoGalo, com uma vista deslumbrante para o mar e para a Ilha Grande, a apenas 300 metros da praia. Recentemente reformada e mobiliada com uma decoração aconchegante, esta residência oferece o máximo de conforto e sofisticação.
+
+O imóvel conta com 6 suítes amplas, todas equipadas com ar condicionado split e TV smart. 
+
+Para momentos de lazer, a casa possui uma piscina e um spa de alvenaria com hidromassagem aquecida, criando o cenário perfeito para relaxamento e diversão. A cozinha é totalmente equipada, ideal para quem aprecia preparar boas refeições. 
+
+O condomínio de alto padrão oferece segurança 24 horas, total privacidade e uma infraestrutura exclusiva, com marina e praias privativas para os moradores. 
+
+A casa também dispõe de vagas para até 6 carros, atendendo perfeitamente às necessidades de quem recebe visitas com frequência.
+
+Com uma localização privilegiada na divisa de Mangaratiba e Angra dos Reis, esta casa é uma oportunidade única para quem deseja desfrutar em um dos lugares mais paradisíacos e tranquilos do Rio de Janeiro.
+
+ Agende sua visita e venha conhecer este verdadeiro paraíso!]]></Description>
+      <ListPrice currency="BRL">3600000</ListPrice>
+      <LivingArea unit="square metres">333</LivingArea>
+      <LotArea unit="square metres">1200</LotArea>
+      <PropertyAdministrationFee currency="BRL">2288</PropertyAdministrationFee>
+      <Iptu currency="BRL" period="Monthly">786</Iptu>
+      <Bedrooms>6</Bedrooms>
+      <Bathrooms>8</Bathrooms>
+      <Suites>6</Suites>
+      <Garage>4</Garage>
+      <Features>
+        <Feature>Integrated Environments</Feature>
+        <Feature>Kitchen Cabinets</Feature>
+        <Feature>Gourmet Kitchen</Feature>
+        <Feature>Large Kitchen</Feature>
+        <Feature>Whirlpool</Feature>
+        <Feature>Furnished</Feature>
+        <Feature>Panoramic View</Feature>
+        <Feature>Mountain View</Feature>
+        <Feature>Ocean View</Feature>
+        <Feature>Pets Allowed</Feature>
+        <Feature>BBQ</Feature>
+        <Feature>Private Pool</Feature>
+        <Feature>Pizza Oven</Feature>
+      </Features>
+    </Details>
+    <Location displayAddress="All">
+      <Country abbreviation="BR">Brasil</Country>
+      <State abbreviation="RJ">Rio de Janeiro</State>
+      <City>Angra dos Reis</City>
+      <Neighborhood>Portogalo</Neighborhood>
+      <Address>Angra dos Reis</Address>
+      <StreetNumber>6</StreetNumber>
+      <PostalCode>23917-010</PostalCode>
+      <Latitude>-23.0069216</Latitude>
+      <Longitude>-44.3185172</Longitude>
+    </Location>
+    <ContactInfo>
+      <Name>Lotus com Alma Imóveis</Name>
+      <Email>jaqueline.lothusrj@gmail.com</Email>
+      <Website>comalmaimoveis.com.br</Website>
+      <Telephone>(21) 98150-8894</Telephone>
+      <Location>
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>Rio de Janeiro</City>
+        <Neighborhood>Leblon</Neighborhood>
+        <Address>Rua Humberto de campos, 1003</Address>
+      </Location>
+    </ContactInfo>
+  </Listing>
+  <Listing>
     <ListingID>198</ListingID>
     <Title><![CDATA[Casa com vista para o mar à venda no Condomínio Portogalo — Angra dos Reis]]></Title>
     <TransactionType>For Sale</TransactionType>
@@ -2856,7 +2925,7 @@ Agende uma visita e conheça pessoalmente este refúgio no Portogalo.]]></Descri
     <ListingID>49</ListingID>
     <Title><![CDATA[Incrível Casa à Beira-Mar com Vista de Tirar o Fôlego no Condomínio Portobello]]></Title>
     <TransactionType>For Sale</TransactionType>
-    <PublicationType>SUPER_PREMIUM</PublicationType>
+    <PublicationType>PREMIUM</PublicationType>
     <Media>
       <Item medium="video">https://www.youtube.com/watch?v=fXYfNoyBjHE</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31976875720250121/ko66xsg2otqzmgq0ogfkodm3_md.jpg</Item>
@@ -4147,7 +4216,7 @@ Temos outras opções no Condomínio, entre em contato e agende a sua visita, co
     <ListingID>115</ListingID>
     <Title><![CDATA[Espetacular Mansão de Luxo no Malibu: Conforto e Sofisticação em Cada Detalhe!]]></Title>
     <TransactionType>For Sale</TransactionType>
-    <PublicationType>STANDARD</PublicationType>
+    <PublicationType>PREMIUM</PublicationType>
     <Media>
       <Item medium="video">https://www.youtube.com/watch?v=jRk1m3U2ggw</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977953794511075/qcleh2w2otqzmte3zmrmodrm_md.jpg</Item>
@@ -4658,7 +4727,7 @@ Uma oportunidade para construir uma casa onde o mar faz parte da rotina, com tra
     <ListingID>178</ListingID>
     <Title><![CDATA[Ilha do Portobello Resort I Terreno único com acesso direto ao canal]]></Title>
     <TransactionType>For Sale</TransactionType>
-    <PublicationType>SUPER_PREMIUM</PublicationType>
+    <PublicationType>PREMIUM</PublicationType>
     <Media>
       <Item medium="video">https://www.youtube.com/watch?v=jRk1m3U2ggw</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/24917635892719/xua9tem2owjjmzy0nmjhoddj_md.jpg</Item>
