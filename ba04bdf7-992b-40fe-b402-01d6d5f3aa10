@@ -4,7 +4,7 @@
   <Provider>Praedium</Provider>
   <Email>integracoes@praedium.com.br</Email>
   <ContactName>Praedium Tecnologia Imobiliária</ContactName>
-  <PublishDate>2026-10-26T14:12:57</PublishDate>
+  <PublishDate>2026-10-28T05:47:27</PublishDate>
   <Telephone>13-3032 3823</Telephone>
  </Header>
  <Listings>
@@ -1350,11 +1350,11 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <Zone>Zona Sul</Zone>
       <Neighborhood>Ipanema</Neighborhood>
       <Address>Rua Joana Angélica</Address>
-      <StreetNumber>250</StreetNumber>
-      <Complement>Cobertura</Complement>
+      <StreetNumber>251</StreetNumber>
+      <Complement>501</Complement>
       <PostalCode>22420-030</PostalCode>
-      <Latitude>-22.9807721</Latitude>
-      <Longitude>-43.2045547</Longitude>
+      <Latitude>-22.9804906</Latitude>
+      <Longitude>-43.2048409</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -1474,11 +1474,11 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <Zone>Zona Sul</Zone>
       <Neighborhood>Ipanema</Neighborhood>
       <Address>Rua Almirante Saddock de Sá</Address>
-      <StreetNumber>350</StreetNumber>
-      <Complement>Cobertura</Complement>
+      <StreetNumber>370</StreetNumber>
+      <Complement>501</Complement>
       <PostalCode>22411-040</PostalCode>
-      <Latitude>-22.9808662</Latitude>
-      <Longitude>-43.2041697</Longitude>
+      <Latitude>-22.980715</Latitude>
+      <Longitude>-43.204373</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -1911,11 +1911,11 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <Zone>Zona Sul</Zone>
       <Neighborhood>Leme</Neighborhood>
       <Address>Rua Gustavo Sampaio</Address>
-      <StreetNumber>700</StreetNumber>
-      <Complement>Cobertura</Complement>
+      <StreetNumber>710</StreetNumber>
+      <Complement>2802</Complement>
       <PostalCode>22010-010</PostalCode>
-      <Latitude>-22.9634468</Latitude>
-      <Longitude>-43.1719228</Longitude>
+      <Latitude>-22.9632254</Latitude>
+      <Longitude>-43.1722077</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -2105,108 +2105,6 @@ Não perca a oportunidade e venha conhecer!]]></Description>
       <PostalCode>22450-140</PostalCode>
       <Latitude>-22.9860795</Latitude>
       <Longitude>-43.2338244</Longitude>
-    </Location>
-    <ContactInfo>
-      <Name>Lotus com Alma Imóveis</Name>
-      <Email>jaqueline.lothusrj@gmail.com</Email>
-      <Website>comalmaimoveis.com.br</Website>
-      <Telephone>(21) 98150-8894</Telephone>
-      <Location>
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">Rio de Janeiro</State>
-        <City>Rio de Janeiro</City>
-        <Neighborhood>Leblon</Neighborhood>
-        <Address>Rua Humberto de campos, 1003</Address>
-      </Location>
-    </ContactInfo>
-  </Listing>
-  <Listing>
-    <ListingID>182</ListingID>
-    <Title><![CDATA[Cobertura reformada no Leblon com Vista mar e Dois irmãos]]></Title>
-    <TransactionType>For Sale</TransactionType>
-    <PublicationType>STANDARD</PublicationType>
-    <Media>
-      <Item medium="video">https://www.youtube.com/watch?v=lIJ54kOSTpE</Item>
-      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/115717657535616/zv0m18e2ownjmtg5m2jmotm1_md.jpg</Item>
-      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/22365393521225/gnrebki2ownjmtg3yzdiztjk_md.jpg</Item>
-      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/6115361423052/uo6wfai2ownjmtg3ztc2mdzk_md.jpg</Item>
-      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/196817006202447/faa7laa2ownjmtg3otixnwyz_md.jpg</Item>
-      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/547472195528035/c30q0q2ownjmtg4mdrlnwm1_md.jpg</Item>
-      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/196797724064243/mt9ayya2ownjmtg2nwqwowy5_md.jpg</Item>
-      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/14266684930389/qv0x86k2ownjmtg3ngm2zgi5_md.jpg</Item>
-      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/29058827632286/dthqv5q2ownjmtg3ywu5mmzh_md.jpg</Item>
-      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/22372850848312/ltd5iw82ownjmtg4m2vjotdm_md.jpg</Item>
-      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/24189564089627/byjyyyy2ownjmtg4ywe5owrk_md.jpg</Item>
-      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/29073252079885/yf2fny2ownjmtg4otvjywmx_md.jpg</Item>
-      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/2889215887070/1q5mofq2ownjmtg5mduzyjiz_md.jpg</Item>
-      <Item medium="image" caption="img12">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/14291420444507/3kvvebm2ownjmtg4zdg2nwrh_md.jpg</Item>
-      <Item medium="image" caption="img13">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/6131759103511/1xgen82ownjmtg4zwq3zmvm_md.jpg</Item>
-      <Item medium="image" caption="img14">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/22346147947837/22r6eyi2ownjmtg2otqxmdq5_md.jpg</Item>
-      <Item medium="image" caption="img15">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/6096935106752/nhh8g0s2ownjmtg2yzblzdbk_md.jpg</Item>
-      <Item medium="image" caption="img16">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/196806616469538/qefoc4o2ownjmtg2zwi2ntk1_md.jpg</Item>
-      <Item medium="image" caption="img17">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/115682111599027/osf8cvo2ownjmtg3mdnhmmi3_md.jpg</Item>
-      <Item medium="image" caption="img18">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/29049572717352/knhamoc2ownjmtg3mwfhngyy_md.jpg</Item>
-      <Item medium="image" caption="img19">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/115725463584906/rjzpcri2ownjmtg5yjkwnwqz_md.jpg</Item>
-      <Item medium="image" caption="img20">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/29095804730529/siaxw8o2ownjmtg5zmuzoty5_md.jpg</Item>
-      <Item medium="image" caption="img21">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/2899153093263/gap7ig2ownjmtg5ytq0n2q3_md.jpg</Item>
-      <Item medium="image" caption="img22">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/14302622691483/2iubyo82ownjmtg5ogi2yzy3_md.jpg</Item>
-      <Item medium="image" caption="img23">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/24200275107092/nwhntuy2ownjmtg5ntyzmzax_md.jpg</Item>
-      <Item medium="image" caption="img24">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/22392098674555/ndcigpe2ownjmtg5nzm0zji0_md.jpg</Item>
-      <Item medium="image" caption="img25">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/14318777936677/jdf0s2ownjmthhogrkm2iw_md.jpg</Item>
-      <Item medium="image" caption="img26">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/6159232171313/cxrpx7i2ownjmthhytu3mjnm_md.jpg</Item>
-      <Item medium="image" caption="img27">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/24218092632989/xivjmp02ownjmthhnzm2odbl_md.jpg</Item>
-      <Item medium="image" caption="img28">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/547506753948798/3tenvoc2ownjmthhmmq2ztgx_md.jpg</Item>
-      <Item medium="image" caption="img29">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/6169300939912/yznd2re2ownjmthindy4mwuz_md.jpg</Item>
-      <Item medium="image" caption="img30">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/2926911181271/juqtdju2ownjmthinja5ndg1_md.jpg</Item>
-      <Item medium="image" caption="img31">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/29122046390916/axkkvme2ownjmthiytjhnmi2_md.jpg</Item>
-      <Item medium="image" caption="img32">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/115742861383832/fhqah42ownjmthhy2yxm2uw_md.jpg</Item>
-      <Item medium="image" caption="img33">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/2916559448226/cbddzo2ownjmthhyme3yjfm_md.jpg</Item>
-      <Item medium="image" caption="img34">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/22418300380581/e99shye2ownjmthimty2mzy4_md.jpg</Item>
-      <Item medium="image" caption="img35">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/29101690396592/mx2sbqy2ownjmthhnwm3zdm3_md.jpg</Item>
-      <Item medium="image" caption="img36">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/14311184372552/zypqagk2ownjmthhmtrjzgy2_md.jpg</Item>
-      <Item medium="image" caption="img37">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/29111575899500/jutiprs2ownjmthhzmfiymfi_md.jpg</Item>
-      <Item medium="image" caption="img38">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/22431079503420/ytai9qm2ownjmthiztmwodyy_md.jpg</Item>
-      <Item medium="image" caption="img39">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/14341485071824/uuxnr02ownjmthizjk2mme3_md.jpg</Item>
-      <Item medium="image" caption="img40">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/24238710883116/usbpscy2ownjmthiymnizmi5_md.jpg</Item>
-      <Item medium="image" caption="img41">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/196879297541684/uzpykpy2ownjmthinzy4nwi0_md.jpg</Item>
-    </Media>
-    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
-    <Details>
-      <UsageType>Residential</UsageType>
-      <PropertyType>Residential / Penthouse</PropertyType>
-      <Description><![CDATA[Uma cobertura que convida você a viver entre o azul do mar e o verde das montanhas, com o Morro Dois Irmãos como cenário permanente.
-
-Recém-reformada, ela revela um projeto onde cada detalhe foi pensado para proporcionar conforto, fluidez e uma atmosfera acolhedora — daquelas que fazem você querer ficar.
-
-No primeiro piso, a área social se abre em três ambientes integrados, conectados à luz natural e à paisagem. A sala de jantar e a adega compõem um espaço perfeito para receber, enquanto os três quartos — sendo duas suítes — oferecem privacidade e tranquilidade. A cozinha planejada traz a possibilidade de integração, valorizando ainda mais o convívio.
-
-A escada linear conduz ao segundo piso, onde o ritmo desacelera. Uma sala de TV íntima, duas suítes com varanda privativa e uma suíte master generosa, com closet amplo e hidromassagem, criam um refúgio particular. Do lado de fora, a experiência se completa: piscina, deck, espaço gourmet e churrasqueira, tudo envolvido por uma vista aberta entre mar e montanhas.
-
-No terceiro piso, um espaço dedicado ao bem-estar — academia cercada pelo verde, sauna a vapor e uma área externa que amplia ainda mais a sensação de liberdade.
-
-Uma cobertura que não é só sobre morar.
-É sobre sentir, desacelerar e viver o Leblon em sua forma mais essencial.
-
-Agende sua visita e sinta pessoalmente tudo o que este imóvel pode despertar em você.]]></Description>
-      <ListPrice currency="BRL">9990000</ListPrice>
-      <LivingArea unit="square metres">560</LivingArea>
-      <PropertyAdministrationFee currency="BRL">4500</PropertyAdministrationFee>
-      <Iptu currency="BRL" period="Monthly">2212</Iptu>
-      <Bedrooms>5</Bedrooms>
-      <Bathrooms>8</Bathrooms>
-      <Suites>4</Suites>
-      <Garage>1</Garage>
-    </Details>
-    <Location displayAddress="All">
-      <Country abbreviation="BR">Brasil</Country>
-      <State abbreviation="RJ">Rio de Janeiro</State>
-      <City>Rio de Janeiro</City>
-      <Neighborhood>Leblon</Neighborhood>
-      <Address>Rua Sambaíba</Address>
-      <StreetNumber>610</StreetNumber>
-      <PostalCode>22450-140</PostalCode>
-      <Latitude>-22.9860048</Latitude>
-      <Longitude>-43.2342249</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -4193,7 +4091,6 @@ Temos outras opções no Condomínio, entre em contato e agende a sua visita, co
       <Neighborhood>Barra da Tijuca</Neighborhood>
       <Address>Rua Buza Ferraz</Address>
       <StreetNumber>60</StreetNumber>
-      <Complement>Casa</Complement>
       <PostalCode>22793-000</PostalCode>
       <Latitude>-22.9922117</Latitude>
       <Longitude>-43.3924416</Longitude>
@@ -4927,7 +4824,7 @@ Visite nosso site e descubra nosso jeito com Alma de trabalhar. Estamos prontos 
       <Zone>Zona Sul</Zone>
       <Neighborhood>Joá</Neighborhood>
       <Address>Rua Jackson de Figueiredo</Address>
-      <StreetNumber>37</StreetNumber>
+      <StreetNumber>33</StreetNumber>
       <Complement>casa</Complement>
       <PostalCode>22611-000</PostalCode>
       <Latitude>-23.0079611</Latitude>
