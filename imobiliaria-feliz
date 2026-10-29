@@ -69,7 +69,7 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <UsageType>Residential</UsageType>
 
-        <ListPrice currency="BRL">1500000</ListPrice>
+        <ListPrice currency="BRL">1500001</ListPrice>
         <PropertyAdministrationFee currency="BRL">1200</PropertyAdministrationFee>
         <Iptu currency="BRL" period="Yearly">4800</Iptu>
 
