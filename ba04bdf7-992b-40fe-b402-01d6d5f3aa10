@@ -4,7 +4,7 @@
   <Provider>Praedium</Provider>
   <Email>integracoes@praedium.com.br</Email>
   <ContactName>Praedium Tecnologia Imobiliária</ContactName>
-  <PublishDate>2026-10-28T05:47:27</PublishDate>
+  <PublishDate>2026-10-31T05:47:27</PublishDate>
   <Telephone>13-3032 3823</Telephone>
  </Header>
  <Listings>
@@ -2121,125 +2121,6 @@ Não perca a oportunidade e venha conhecer!]]></Description>
     </ContactInfo>
   </Listing>
   <Listing>
-    <ListingID>196</ListingID>
-    <Title><![CDATA[Cobertura duplex com vista cinematográfica de 180° para o mar e Pedra da Gávea]]></Title>
-    <TransactionType>For Sale</TransactionType>
-    <PublicationType>SUPER_PREMIUM</PublicationType>
-    <Media>
-      <Item medium="video">https://www.youtube.com/watch?v=PbsV8_ONSFk</Item>
-      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18624146165256/dhwhpyi2ytk5otlimzqxyznh_md.jpg</Item>
-      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18611887949133/0uq1ys2ytk5otlhnjawzmi3_md.jpg</Item>
-      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277828846806599/kvsi8gm2ytk5otlinmvhywe3_md.jpg</Item>
-      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18626901597988/xxhsc1s2ytk5otlinta0ngrl_md.jpg</Item>
-      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18214253620026/l2fllq42ytk5otgxotvjmduy_md.jpg</Item>
-      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277810225963680/td45kb82ytk5otlhnduzmdy2_md.jpg</Item>
-      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/104590919043152/mwvvmsk2ytk5otdmztbin2jj_md.jpg</Item>
-      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18175930898875/3vyrhc2ytk5otdmnda5n2yx_md.jpg</Item>
-      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277390360427672/jkou57y2ytk5otgwmdczodk0_md.jpg</Item>
-      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277395346209835/xi8hcnm2ytk5otgwntcwnmix_md.jpg</Item>
-      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18199272699513/cdvyum2ytk5otgwytywytcx_md.jpg</Item>
-      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18197794716299/3clxp2m2ytk5otgwn2rlnje0_md.jpg</Item>
-      <Item medium="image" caption="img12">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18200839719246/e9luve2ytk5otgwy2u3ognh_md.jpg</Item>
-      <Item medium="image" caption="img13">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18621869359162/nij1stg2ytk5otlhzmywotmw_md.jpg</Item>
-      <Item medium="image" caption="img14">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/104630696576997/vu8mzwk2ytk5otgynwm5mgiw_md.jpg</Item>
-      <Item medium="image" caption="img15">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277820001141623/zs935ss2ytk5otlhztfizji1_md.jpg</Item>
-      <Item medium="image" caption="img16">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18616385692968/0asgrh82ytk5otlhyzc4nmvl_md.jpg</Item>
-      <Item medium="image" caption="img17">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18120955084896/ndh9urs2ytk5otdiyzeznjex_md.jpg</Item>
-      <Item medium="image" caption="img18">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277305510767780/nqbwuue2ytk5otdhyjk4mzg5_md.jpg</Item>
-      <Item medium="image" caption="img19">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/104522657364432/bcmjpio2ytk5otdiowjmnzkz_md.jpg</Item>
-      <Item medium="image" caption="img20">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18101939629196/lezkmkg2ytk5otdhytbiy2ni_md.jpg</Item>
-      <Item medium="image" caption="img21">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18159831424338/hpraivu2ytk5otdlmmu5mtq1_md.jpg</Item>
-      <Item medium="image" caption="img22">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277354341788740/zkpavyk2ytk5otdkyzcwngux_md.jpg</Item>
-      <Item medium="image" caption="img23">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/104551248344840/4qw2tm82ytk5otdknjviotzm_md.jpg</Item>
-      <Item medium="image" caption="img24">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277343807308863/zhsgy1e2ytk5otdkmwuxzjnk_md.jpg</Item>
-      <Item medium="image" caption="img25">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18150893703481/5a1bny02ytk5otdkyta0mji0_md.jpg</Item>
-      <Item medium="image" caption="img26">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/104532519867814/0srypi2ytk5otdjmzlkztiw_md.jpg</Item>
-      <Item medium="image" caption="img27">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18143953127571/mzvud02ytk5otdkndblzdiw_md.jpg</Item>
-      <Item medium="image" caption="img28">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277332281995097/a1z7ul42ytk5otdjnjywogu1_md.jpg</Item>
-      <Item medium="image" caption="img29">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18139651056675/8daoshu2ytk5otdjzmi5mge3_md.jpg</Item>
-      <Item medium="image" caption="img30">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277363454471342/hueztp82ytk5otdlnthhytli_md.jpg</Item>
-      <Item medium="image" caption="img31">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18165187676228/l8g57m02ytk5otdlodrizwjj_md.jpg</Item>
-      <Item medium="image" caption="img32">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/277368944100808/qnzxpkm2ytk5otdlyjbmm2e3_md.jpg</Item>
-      <Item medium="image" caption="img33">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18600773763974/xcapahi2ytk5otk5y2q3mmzm_md.jpg</Item>
-      <Item medium="image" caption="img34">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/18604360149197/5bcus842ytk5otlhmdcymmuw_md.jpg</Item>
-    </Media>
-    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
-    <Details>
-      <UsageType>Residential</UsageType>
-      <PropertyType>Residential / Penthouse</PropertyType>
-      <Description><![CDATA[Existem imóveis especiais. E existem coberturas que proporcionam uma experiência única de viver o Rio de Janeiro.  Com uma vista panorâmica de 180°, esta cobertura reúne o azul do mar, a imponência da Pedra da Gávea e o verde do Gávea Golf em um cenário simplesmente espetacular.  No primeiro pavimento, a ampla sala integrada à varanda permite contemplar a paisagem de praticamente todos os ambientes. A planta, originalmente com 4 quartos, foi remodelada para oferecer 3 dormitórios, privilegiando uma suíte master com closet. A cozinha é espaçosa e funcional, complementada por dependência completa de serviço.  No segundo pavimento, o destaque é a área dedicada ao lazer e à convivência. Uma confortável sala de estar se integra à área externa, que conta com piscina privativa, espaço gourmet e uma vista de tirar o fôlego ? o ambiente perfeito para receber amigos ou simplesmente apreciar o pôr do sol.  O condomínio oferece infraestrutura completa de lazer, segurança e comodidade, proporcionando um estilo de vida exclusivo.  Um imóvel raro, para quem busca espaço, privacidade e uma das vistas mais privilegiadas da Zona Sul do Rio.]]></Description>
-      <ListPrice currency="BRL">6500000</ListPrice>
-      <LivingArea unit="square metres">427</LivingArea>
-      <PropertyAdministrationFee currency="BRL">3350</PropertyAdministrationFee>
-      <Iptu currency="BRL" period="Monthly">2246</Iptu>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>3</Bathrooms>
-      <Suites>1</Suites>
-      <Garage>3</Garage>
-      <Features>
-        <Feature>Sauna</Feature>
-        <Feature>Game room</Feature>
-        <Feature>Party Room</Feature>
-        <Feature>Sports Court</Feature>
-        <Feature>Tennis court</Feature>
-        <Feature>Square</Feature>
-        <Feature>Playground</Feature>
-        <Feature>Childrens Pool</Feature>
-        <Feature>Pool</Feature>
-        <Feature>Fitness Room</Feature>
-        <Feature>BBQ</Feature>
-        <Feature>Football Field</Feature>
-        <Feature>Beauty Room</Feature>
-        <Feature>Pool Bar</Feature>
-        <Feature>Pets Allowed</Feature>
-        <Feature>Gym</Feature>
-        <Feature>Patrol</Feature>
-        <Feature>Concierge 24h</Feature>
-        <Feature>Controlled Access</Feature>
-        <Feature>TV Security</Feature>
-        <Feature>Alarm System</Feature>
-        <Feature>Ocean View</Feature>
-        <Feature>Mountain View</Feature>
-        <Feature>Panoramic View</Feature>
-        <Feature>Gourmet Balcony</Feature>
-        <Feature>Balcony</Feature>
-        <Feature>Large Room</Feature>
-        <Feature>Dinner Room</Feature>
-        <Feature>Lavabo</Feature>
-        <Feature>Large Window</Feature>
-        <Feature>Gourmet Kitchen</Feature>
-        <Feature>Closet</Feature>
-        <Feature>Barbecue Balcony</Feature>
-        <Feature>Cooling</Feature>
-        <Feature>Integrated Environments</Feature>
-      </Features>
-    </Details>
-    <Location displayAddress="All">
-      <Country abbreviation="BR">Brasil</Country>
-      <State abbreviation="RJ">Rio de Janeiro</State>
-      <City>Rio de Janeiro</City>
-      <Neighborhood>São Conrado</Neighborhood>
-      <Address>Estrada da Gávea</Address>
-      <StreetNumber>899</StreetNumber>
-      <PostalCode>22610-001</PostalCode>
-      <Latitude>-22.9965592</Latitude>
-      <Longitude>-43.2596308</Longitude>
-    </Location>
-    <ContactInfo>
-      <Name>Lotus com Alma Imóveis</Name>
-      <Email>jaqueline.lothusrj@gmail.com</Email>
-      <Website>comalmaimoveis.com.br</Website>
-      <Telephone>(21) 98150-8894</Telephone>
-      <Location>
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">Rio de Janeiro</State>
-        <City>Rio de Janeiro</City>
-        <Neighborhood>Leblon</Neighborhood>
-        <Address>Rua Humberto de campos, 1003</Address>
-      </Location>
-    </ContactInfo>
-  </Listing>
-  <Listing>
     <ListingID>106</ListingID>
     <Title><![CDATA[Excelente Apartamento com Vista Encantadora para as Copas das Árvores!]]></Title>
     <TransactionType>For Sale</TransactionType>
@@ -2972,10 +2853,9 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <Neighborhood>Condomínio Portobello</Neighborhood>
       <Address>Portobello Resort &amp; Safári BR-101, km 434 - Mangaratiba - RJ</Address>
       <StreetNumber>14</StreetNumber>
-      <Complement>casa</Complement>
       <PostalCode>23860-000</PostalCode>
-      <Latitude>-22.956640057246</Latitude>
-      <Longitude>-44.080210545308</Longitude>
+      <Latitude>-22.9490598</Latitude>
+      <Longitude>-44.0743917</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -3120,7 +3000,6 @@ Acesse nosso site e descubra o nosso jeito C' ALMA de trabalhar :)]]></Descripti
       <Neighborhood>Condomínio Portobello</Neighborhood>
       <Address>Portobello Resort &amp; Safári BR-101, km 434 - Mangaratiba - RJ - Mangaratiba - RJ</Address>
       <StreetNumber>11</StreetNumber>
-      <Complement>casa</Complement>
       <PostalCode>23860-000</PostalCode>
       <Latitude>-22.951495096072</Latitude>
       <Longitude>-44.081705528548</Longitude>
@@ -3399,11 +3278,10 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <Zone>Costa Verde</Zone>
       <Neighborhood>Condomínio Portobello</Neighborhood>
       <Address>Portobello Resort &amp; Safári BR-101, km 434 - Mangaratiba - RJ - Mangaratiba - RJ</Address>
-      <StreetNumber>km 434</StreetNumber>
-      <Complement>34</Complement>
+      <StreetNumber>34</StreetNumber>
       <PostalCode>23860-000</PostalCode>
-      <Latitude>-22.9501169</Latitude>
-      <Longitude>-44.0744582</Longitude>
+      <Latitude>-22.9515424</Latitude>
+      <Longitude>-44.0749396</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -3603,11 +3481,10 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <Zone>Costa Verde</Zone>
       <Neighborhood>Condomínio Portobello</Neighborhood>
       <Address>Portobello Resort &amp; Safári BR-101, km 434 - Mangaratiba - RJ - Mangaratiba - RJ</Address>
-      <StreetNumber>00</StreetNumber>
-      <Complement>verde</Complement>
+      <StreetNumber>30</StreetNumber>
       <PostalCode>23860-000</PostalCode>
-      <Latitude>-22.9501169</Latitude>
-      <Longitude>-44.0744582</Longitude>
+      <Latitude>-22.9515424</Latitude>
+      <Longitude>-44.0749396</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -3806,7 +3683,6 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <Neighborhood>Condomínio Portobello</Neighborhood>
       <Address>Portobello Resort &amp; Safári BR-101, km 434 - Mangaratiba - RJ - Mangaratiba - RJ</Address>
       <StreetNumber>02</StreetNumber>
-      <Complement>lago</Complement>
       <PostalCode>23860-000</PostalCode>
       <Latitude>-22.9501169</Latitude>
       <Longitude>-44.0744582</Longitude>
@@ -4316,11 +4192,11 @@ Agende sua visita e conheça essa residência única.]]></Description>
       <State abbreviation="RJ">Rio de Janeiro</State>
       <City>Rio de Janeiro</City>
       <Neighborhood>Barra da Tijuca</Neighborhood>
-      <Address>Avenida Jorge Curi</Address>
-      <StreetNumber>sn</StreetNumber>
-      <PostalCode>22793-000</PostalCode>
-      <Latitude>-22.9941131</Latitude>
-      <Longitude>-43.3767777</Longitude>
+      <Address>Rua Pedro Teixeira Soares</Address>
+      <StreetNumber>62</StreetNumber>
+      <PostalCode>22793-248</PostalCode>
+      <Latitude>-22.9910238</Latitude>
+      <Longitude>-43.3962724</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -4546,11 +4422,10 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <Zone>Costa Verde</Zone>
       <Neighborhood>Condomínio Portobello</Neighborhood>
       <Address>Portobello Resort &amp; Safári BR-101, km 434 - Mangaratiba - RJ - Mangaratiba - RJ</Address>
-      <StreetNumber>km 434</StreetNumber>
-      <Complement>29</Complement>
+      <StreetNumber>29</StreetNumber>
       <PostalCode>23860-000</PostalCode>
-      <Latitude>-22.931973170748</Latitude>
-      <Longitude>-44.081195828345</Longitude>
+      <Latitude>-22.9515424</Latitude>
+      <Longitude>-44.0749396</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -4602,6 +4477,115 @@ Uma oportunidade para construir uma casa onde o mar faz parte da rotina, com tra
       <Neighborhood>Condomínio Portobello</Neighborhood>
       <Address>Condomínio Portobello Resort e Safari</Address>
       <StreetNumber>55</StreetNumber>
+      <PostalCode>23860-000</PostalCode>
+      <Latitude>-22.9515424</Latitude>
+      <Longitude>-44.0749396</Longitude>
+    </Location>
+    <ContactInfo>
+      <Name>Lotus com Alma Imóveis</Name>
+      <Email>jaqueline.lothusrj@gmail.com</Email>
+      <Website>comalmaimoveis.com.br</Website>
+      <Telephone>(21) 98150-8894</Telephone>
+      <Location>
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>Rio de Janeiro</City>
+        <Neighborhood>Leblon</Neighborhood>
+        <Address>Rua Humberto de campos, 1003</Address>
+      </Location>
+    </ContactInfo>
+  </Listing>
+  <Listing>
+    <ListingID>171</ListingID>
+    <Title><![CDATA[Terreno no canal principal no Portobello Resort]]></Title>
+    <TransactionType>For Sale</TransactionType>
+    <PublicationType>PREMIUM</PublicationType>
+    <Media>
+      <Item medium="video">https://www.youtube.com/watch?v=jRk1m3U2ggw</Item>
+      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/mthg0db4uj8bl8vvfp8r3bbvrvxrrfwpxwhyqk2yv042owi4mmq4yzq2m2vh_md.jpg</Item>
+      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/miybnsgcpneu6iiaho3lryey4woaja74srttoaufii2owi4mmq4yzq2ndi1_md.jpg</Item>
+    </Media>
+    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
+    <Details>
+      <UsageType>Residential</UsageType>
+      <PropertyType>Residential / Land Lot</PropertyType>
+      <Description><![CDATA[Este amplo terreno, localizado de frente para o canal navegável, reúne tudo o que os verdadeiros apaixonados por mar e natureza procuram. Já aterrado e pronto para construir, ele oferece uma posição privilegiada no canal principal, garantindo acesso direto ao mar  — um diferencial extremamente valorizado para quem possui lancha.
+
+Aqui, cada detalhe convida a criar uma casa onde o mar faz parte da rotina: sair de barco direto do seu deck, contemplar o pôr do sol refletindo no canal e viver com a tranquilidade, segurança e sofisticação que o Portobello oferece.
+
+Um terreno que não é apenas um espaço para construir, mas o cenário perfeito para uma vida com mais liberdade, natureza e exclusividade.]]></Description>
+      <ListPrice currency="BRL">3300000</ListPrice>
+      <LotArea unit="square metres">1295</LotArea>
+      <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+      <Iptu currency="BRL" period="Monthly">0</Iptu>
+    </Details>
+    <Location displayAddress="All">
+      <Country abbreviation="BR">Brasil</Country>
+      <State abbreviation="RJ">Rio de Janeiro</State>
+      <City>Mangaratiba</City>
+      <Neighborhood>Condomínio Portobello</Neighborhood>
+      <Address>Condomínio Portobello Resort e Safari</Address>
+      <StreetNumber>50</StreetNumber>
+      <PostalCode>23860-000</PostalCode>
+      <Latitude>-22.9515424</Latitude>
+      <Longitude>-44.0749396</Longitude>
+    </Location>
+    <ContactInfo>
+      <Name>Lotus com Alma Imóveis</Name>
+      <Email>jaqueline.lothusrj@gmail.com</Email>
+      <Website>comalmaimoveis.com.br</Website>
+      <Telephone>(21) 98150-8894</Telephone>
+      <Location>
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>Rio de Janeiro</City>
+        <Neighborhood>Leblon</Neighborhood>
+        <Address>Rua Humberto de campos, 1003</Address>
+      </Location>
+    </ContactInfo>
+  </Listing>
+  <Listing>
+    <ListingID>173</ListingID>
+    <Title><![CDATA[Terreno no canal principal no Portobello Resort]]></Title>
+    <TransactionType>For Sale</TransactionType>
+    <PublicationType>SUPER_PREMIUM</PublicationType>
+    <Media>
+      <Item medium="video">https://www.youtube.com/watch?v=jRk1m3U2ggw</Item>
+      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/15384630123400/ge30t9c2owi4m2m3ymi3zje5_md.jpg</Item>
+      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/1121074131464767/nwvmdy2owi4m2m3odnkztkz_md.jpg</Item>
+      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/23562223503498/o1501ym2owi4m2m3otu0nme0_md.jpg</Item>
+      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/17367115108234/eimtyi02owi4m2m3zdnhotkz_md.jpg</Item>
+      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/23563441809209/nxavzo42owi4m2m3ythimziw_md.jpg</Item>
+    </Media>
+    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
+    <Details>
+      <UsageType>Residential</UsageType>
+      <PropertyType>Residential / Land Lot</PropertyType>
+      <Description><![CDATA[Aproveite esta oportunidade única de adquirir um terreno de 2.000m² com uma localização privilegiada, no renomado Condomínio Portobello Resort & Safari, na ilha.
+
+Este espaço oferece o cenário perfeito para construir a casa dos seus sonhos, com vistas deslumbrantes e acesso direto ao canal. A região é conhecida por sua beleza natural e infraestrutura de alto padrão, proporcionando um estilo de vida exclusivo e repleto de lazer.
+
+Não perca a chance de investir em um dos melhores endereços da ilha! Entre em contato e agende uma visita para conhecer pessoalmente este incrível terreno. Seu novo lar à beira-mar espera por você!
+
+Ainda não encontrou o que procura? Somos especialistas no Condomínio Portobello Resort & Safari :)
+
+Fale conosco! Oferecemos um atendimento super personalizado, realizando uma busca e mapeamento de mercado para encontrar imóveis que atendam ao seu perfil.
+
+Acesse nosso site e descubra o nosso jeito C' ALMA de trabalhar :)
+
+Estamos prontos para transformar sua busca em uma experiência inesquecível!]]></Description>
+      <ListPrice currency="BRL">11000000</ListPrice>
+      <LotArea unit="square metres">2000</LotArea>
+      <PropertyAdministrationFee currency="BRL">0</PropertyAdministrationFee>
+      <Iptu currency="BRL" period="Monthly">0</Iptu>
+    </Details>
+    <Location displayAddress="All">
+      <Country abbreviation="BR">Brasil</Country>
+      <State abbreviation="RJ">Rio de Janeiro</State>
+      <City>Mangaratiba</City>
+      <Neighborhood>Condomínio Portobello</Neighborhood>
+      <Address>Condomínio Portobello Resort e Safari</Address>
+      <StreetNumber>35</StreetNumber>
       <PostalCode>23860-000</PostalCode>
       <Latitude>-22.9515424</Latitude>
       <Longitude>-44.0749396</Longitude>
