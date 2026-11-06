@@ -4,139 +4,10 @@
   <Provider>Praedium</Provider>
   <Email>integracoes@praedium.com.br</Email>
   <ContactName>Praedium Tecnologia Imobiliária</ContactName>
-  <PublishDate>2026-11-03T05:47:27</PublishDate>
+  <PublishDate>2026-11-06T05:47:27</PublishDate>
   <Telephone>13-3032 3823</Telephone>
  </Header>
  <Listings>
-  <Listing>
-    <ListingID>101</ListingID>
-    <Title><![CDATA[Impecável Apartamento com Vista para o Cristo na Melhor Localização de Botafogo!]]></Title>
-    <TransactionType>For Sale</TransactionType>
-    <PublicationType>SUPER_PREMIUM</PublicationType>
-    <Media>
-      <Item medium="video">https://www.youtube.com/watch?v=EE2vmNLSaK4</Item>
-      <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977739111520839/fvmim1o2otqzmtbhodllzwri_md.jpg</Item>
-      <Item medium="image" caption="img1">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977738542556566/8np5qto2otqzmtbhogexzdvk_md.jpg</Item>
-      <Item medium="image" caption="img2">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977738043117964/yfwk3q2otqzmtbhodi4mtey_md.jpg</Item>
-      <Item medium="image" caption="img3">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977737404853588/cyyjt5w2otqzmtbhnzdmzge5_md.jpg</Item>
-      <Item medium="image" caption="img4">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977741042918216/ytylj302otqzmtbhytbiogqy_md.jpg</Item>
-      <Item medium="image" caption="img5">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977740571531176/zksbmdm2otqzmtbhytbln2i5_md.jpg</Item>
-      <Item medium="image" caption="img6">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977739950514842/mn9ihza2otqzmtbhytexnje2_md.jpg</Item>
-      <Item medium="image" caption="img7">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977742397640962/eks7oma2otqzmtbhyme5owm0_md.jpg</Item>
-      <Item medium="image" caption="img8">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977741580926206/vyzugsi2otqzmtbhymfintyz_md.jpg</Item>
-      <Item medium="image" caption="img9">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977744056055488/a3bm6u42otqzmtbhzdbmngiz_md.jpg</Item>
-      <Item medium="image" caption="img10">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977743477918609/s2trm5a2otqzmtbhzdeym2fl_md.jpg</Item>
-      <Item medium="image" caption="img11">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977742968411761/z3hhjau2otqzmtbhzde1ndbi_md.jpg</Item>
-      <Item medium="image" caption="img12">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977745218066427/4jhzwpy2otqzmtbhzwm2nwzj_md.jpg</Item>
-      <Item medium="image" caption="img13">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977744701734836/c17kvo2otqzmtbhzwm4zdi3_md.jpg</Item>
-      <Item medium="image" caption="img14">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977746846823459/j6utouc2otqzmtbhzmqyyzcz_md.jpg</Item>
-      <Item medium="image" caption="img15">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977746280822719/9dpiwyy2otqzmtbhzmq0zddm_md.jpg</Item>
-      <Item medium="image" caption="img16">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977745759769961/xjj1dc2otqzmtbhzmq2zwvh_md.jpg</Item>
-      <Item medium="image" caption="img17">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977748041527542/eculoj42otqzmtbimtzmywm4_md.jpg</Item>
-      <Item medium="image" caption="img18">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977747348908348/sy8eznq2otqzmtbimtcynmrm_md.jpg</Item>
-      <Item medium="image" caption="img19">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977749713385166/xrpjkzs2otqzmtbimmizzwe2_md.jpg</Item>
-      <Item medium="image" caption="img20">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977749142820321/43rkqjc2otqzmtbimmi2mdgx_md.jpg</Item>
-      <Item medium="image" caption="img21">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977748643706958/deatcje2otqzmtbimmjhmtgw_md.jpg</Item>
-      <Item medium="image" caption="img22">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977750734579228/m9tciso2otqzmtbinduzymnj_md.jpg</Item>
-      <Item medium="image" caption="img23">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977750230446170/e5ybmdq2otqzmtbindu1yzq5_md.jpg</Item>
-      <Item medium="image" caption="img24">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977752313152898/jcdslu2otqzmtbinty3y2uw_md.jpg</Item>
-      <Item medium="image" caption="img25">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977751838520441/g4mtzgu2otqzmtbintzhymfm_md.jpg</Item>
-      <Item medium="image" caption="img26">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977751328347973/e4fmwcs2otqzmtbintzkytez_md.jpg</Item>
-      <Item medium="image" caption="img27">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977753548828129/pg2a4c2otqzmtbinmu5nwy2_md.jpg</Item>
-      <Item medium="image" caption="img28">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31977752846074894/x6sciis2otqzmtbinmvjmdqx_md.jpg</Item>
-    </Media>
-    <VirtualTourLink>https://tour360.meupasseiovirtual.com/</VirtualTourLink>
-    <Details>
-      <UsageType>Residential</UsageType>
-      <PropertyType>Residential / Apartment</PropertyType>
-      <Description><![CDATA[Apresentamos um incrível apartamento de 242 m², situado no coração de Botafogo, próximo ao metrô, às melhores escolas e academias, além de todas as comodidades que o bairro oferece. Este imóvel foi completamente reformado e está pronto para receber você!
-
-Originalmente com 4 quartos, o apartamento foi transformado em 3, proporcionando mais espaço e conforto. Todos os quartos oferecem uma vista deslumbrante para o Cristo Redentor, e duas suítes, sendo a suíte principal equipada com um generoso closet. Um amplo roupeiro no corredor e um escritório garantem praticidade e organização.
-
-A ampla sala, iluminada e arejada, é ideal para momentos de descontração e entretenimento. A cozinha, projetada pela renomada Florence, é funcional e elegante, perfeita para preparar deliciosas refeições e receber amigos e familiares. Além disso, a marcenaria de alta qualidade da Agostini e a marcenaria Latice na sala trazem um toque especial de sofisticação ao ambiente.
-
-As janelas novas garantem excelente iluminação natural e uma brisa suave que adentra todo o imóvel, tornando este espaço ainda mais agradável. O apartamento também conta com internet de alta velocidade, oferecendo uma configuração de hotel que atende às suas necessidades modernas.
-
-Localizado em um centro de terreno, o imóvel proporciona mais privacidade e tranquilidade. O prédio conta com uma quadra poliesportiva, ideal para quem busca lazer e contato com a natureza. Para sua segurança, o portão da garagem possui um sistema de segurança dupla, garantindo tranquilidade para você e sua família.
-
-Não perca a oportunidade de viver em um apartamento que combina elegância, conforto e uma localização privilegiada em Botafogo! Entre em contato conosco e agende sua visita para conhecer este imóvel excepcional!
-
-Não é ainda o que você procura? Entre contato conosco, trabalhamos com atendimento super personalizado, fazendo uma busca e mapeamento de mercado com imóveis dentro do perfil que está buscando.
-
-Acesse o nosso site, venha descobrir o nosso jeito C' ALMA de trabalhar :)
-
-Estamos prontos para transformar sua busca em uma experiência inesquecível!]]></Description>
-      <ListPrice currency="BRL">3800000</ListPrice>
-      <LivingArea unit="square metres">242</LivingArea>
-      <PropertyAdministrationFee currency="BRL">3000</PropertyAdministrationFee>
-      <Iptu currency="BRL" period="Monthly">834</Iptu>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>5</Bathrooms>
-      <Suites>2</Suites>
-      <YearBuilt>1970</YearBuilt>
-      <Garage>2</Garage>
-      <Features>
-        <Feature>Integrated Environments</Feature>
-        <Feature>Cooling</Feature>
-        <Feature>Kitchen Cabinets</Feature>
-        <Feature>Builtin Wardrobe</Feature>
-        <Feature>Bathroom Cabinets</Feature>
-        <Feature>Blindex Box</Feature>
-        <Feature>Closet</Feature>
-        <Feature>Copa</Feature>
-        <Feature>Large Kitchen</Feature>
-        <Feature>Home Office</Feature>
-        <Feature>Large Window</Feature>
-        <Feature>Lavabo</Feature>
-        <Feature>Planned Furniture</Feature>
-        <Feature>Dinner Room</Feature>
-        <Feature>Large Room</Feature>
-        <Feature>Panoramic View</Feature>
-        <Feature>Mountain View</Feature>
-        <Feature>TV Security</Feature>
-        <Feature>Intercom</Feature>
-        <Feature>Glass Wall</Feature>
-        <Feature>Concierge 24h</Feature>
-        <Feature>Pets Allowed</Feature>
-        <Feature>Maid's Quarters</Feature>
-        <Feature>Bicycles Place</Feature>
-        <Feature>Gas Shower</Feature>
-        <Feature>Employee Dependency</Feature>
-        <Feature>Pantry</Feature>
-        <Feature>Parking Garage</Feature>
-        <Feature>Entrance Hall</Feature>
-        <Feature>Wood Floor</Feature>
-        <Feature>Porcelain</Feature>
-        <Feature>Sports Court</Feature>
-      </Features>
-    </Details>
-    <Location displayAddress="All">
-      <Country abbreviation="BR">Brasil</Country>
-      <State abbreviation="RJ">Rio de Janeiro</State>
-      <City>Rio de Janeiro</City>
-      <Zone>Zona Sul</Zone>
-      <Neighborhood>Botafogo</Neighborhood>
-      <Address>Rua Dona Mariana</Address>
-      <StreetNumber>51</StreetNumber>
-      <Complement>701</Complement>
-      <PostalCode>22280-020</PostalCode>
-      <Latitude>-22.9513228</Latitude>
-      <Longitude>-43.1889793</Longitude>
-    </Location>
-    <ContactInfo>
-      <Name>Lotus com Alma Imóveis</Name>
-      <Email>jaqueline.lothusrj@gmail.com</Email>
-      <Website>comalmaimoveis.com.br</Website>
-      <Telephone>(21) 98150-8894</Telephone>
-      <Location>
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">Rio de Janeiro</State>
-        <City>Rio de Janeiro</City>
-        <Neighborhood>Leblon</Neighborhood>
-        <Address>Rua Humberto de campos, 1003</Address>
-      </Location>
-    </ContactInfo>
-  </Listing>
   <Listing>
     <ListingID>200</ListingID>
     <Title><![CDATA[Apartamento de 370 m² de frente para o mar na Avenida Atlântica | Copacabana]]></Title>
@@ -290,9 +161,9 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <LivingArea unit="square metres">154</LivingArea>
       <PropertyAdministrationFee currency="BRL">4515</PropertyAdministrationFee>
       <Iptu currency="BRL" period="Monthly">1468</Iptu>
-      <Bedrooms>3</Bedrooms>
+      <Bedrooms>2</Bedrooms>
       <Bathrooms>5</Bathrooms>
-      <Suites>3</Suites>
+      <Suites>2</Suites>
       <YearBuilt>2014</YearBuilt>
       <Garage>2</Garage>
       <Features>
@@ -809,7 +680,7 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
     <ListingID>163</ListingID>
     <Title><![CDATA[Leblon — Apartamento Reformado com Varandão e Vista Lateral para o Mar]]></Title>
     <TransactionType>For Sale</TransactionType>
-    <PublicationType>PREMIUM</PublicationType>
+    <PublicationType>SUPER_PREMIUM</PublicationType>
     <Media>
       <Item medium="video">https://www.youtube.com/watch?v=zmNucWii1PY</Item>
       <Item medium="image" caption="img0" primary="true">https://cdn3.praedium.com.br/12337U6vRpooGV6FIo5m/31978876418669512/yej5xnw2otqzmtuxytgzymzk_md.jpg</Item>
