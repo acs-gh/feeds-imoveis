@@ -4,7 +4,7 @@
   <Provider>Praedium</Provider>
   <Email>integracoes@praedium.com.br</Email>
   <ContactName>Praedium Tecnologia Imobiliária</ContactName>
-  <PublishDate>2026-11-07T05:47:27</PublishDate>
+  <PublishDate>2026-11-10T05:47:27</PublishDate>
   <Telephone>13-3032 3823</Telephone>
  </Header>
  <Listings>
@@ -1646,11 +1646,11 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <Zone>Zona Sul</Zone>
       <Neighborhood>Lagoa</Neighborhood>
       <Address>Avenida Epitácio Pessoa</Address>
-      <StreetNumber>2010</StreetNumber>
-      <Complement>01</Complement>
+      <StreetNumber>2014</StreetNumber>
+      <Complement>1202</Complement>
       <PostalCode>22411-072</PostalCode>
-      <Latitude>-22.9792223</Latitude>
-      <Longitude>-43.2000601</Longitude>
+      <Latitude>-22.9792051</Latitude>
+      <Longitude>-43.2002047</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
@@ -2241,11 +2241,11 @@ Estamos prontos para transformar sua busca em uma experiência inesquecível!]]>
       <Zone>Zona Sul</Zone>
       <Neighborhood>Leblon</Neighborhood>
       <Address>Rua Timóteo da Costa</Address>
-      <StreetNumber>79</StreetNumber>
-      <Complement>01</Complement>
+      <StreetNumber>89</StreetNumber>
+      <Complement>102</Complement>
       <PostalCode>22450-130</PostalCode>
-      <Latitude>-22.9842769</Latitude>
-      <Longitude>-43.2300201</Longitude>
+      <Latitude>-22.9843095</Latitude>
+      <Longitude>-43.2300478</Longitude>
     </Location>
     <ContactInfo>
       <Name>Lotus com Alma Imóveis</Name>
